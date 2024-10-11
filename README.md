@@ -1,4 +1,4 @@
-# ICCMW App
+# ICCMW App - Islamic Community Center of Mid-Westchester
 
 ### Summary
 
