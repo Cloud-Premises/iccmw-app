@@ -1,0 +1,506 @@
+{
+  "September": {
+    "1-15": {
+      "Fajr": {
+        "start": {
+          "time": "05:57",
+          "clock": "AM",
+          "notification": true
+        },
+        "end": {
+          "time": "06:15",
+          "clock": "AM",
+          "notification": true
+        }
+      },
+      "Dhuhr": {
+        "start": {
+          "time": "01:24",
+          "clock": "PM",
+          "notification": true
+        },
+        "end": {
+          "time": "02:00",
+          "clock": "PM",
+          "notification": true
+        }
+      },
+      "Asr": {
+        "start": {
+          "time": "04:58",
+          "clock": "PM",
+          "notification": true
+        },
+        "end": {
+          "time": "06:00",
+          "clock": "PM",
+          "notification": true
+        }
+      },
+      "Maghrib": {
+        "start": {
+          "time": "07:42",
+          "clock": "PM",
+          "notification": true
+        },
+        "end": {
+          "time": "07:47",
+          "clock": "PM",
+          "notification": true
+        }
+      },
+      "Isha": {
+        "start": {
+          "time": "08:51",
+          "clock": "PM",
+          "notification": true
+        },
+        "end": {
+          "time": "09:15",
+          "clock": "PM",
+          "notification": true
+        }
+      }
+    },
+    "16-30": {
+      "Fajr": {
+        "start": {
+          "time": "05:57",
+          "clock": "AM",
+          "notification": true
+        },
+        "end": {
+          "time": "06:15",
+          "clock": "AM",
+          "notification": true
+        }
+      },
+      "Dhuhr": {
+        "start": {
+          "time": "01:24",
+          "clock": "PM",
+          "notification": true
+        },
+        "end": {
+          "time": "02:00",
+          "clock": "PM",
+          "notification": true
+        }
+      },
+      "Asr": {
+        "start": {
+          "time": "04:58",
+          "clock": "PM",
+          "notification": true
+        },
+        "end": {
+          "time": "06:00",
+          "clock": "PM",
+          "notification": true
+        }
+      },
+      "Maghrib": {
+        "start": {
+          "time": "07:42",
+          "clock": "PM",
+          "notification": true
+        },
+        "end": {
+          "time": "07:47",
+          "clock": "PM",
+          "notification": true
+        }
+      },
+      "Isha": {
+        "start": {
+          "time": "08:51",
+          "clock": "PM",
+          "notification": true
+        },
+        "end": {
+          "time": "09:15",
+          "clock": "PM",
+          "notification": true
+        }
+      }
+    }
+  },
+  "October": {
+    "1-15": {
+      "Fajr": {
+        "start": {
+          "time": "05:57",
+          "clock": "AM",
+          "notification": true
+        },
+        "end": {
+          "time": "06:15",
+          "clock": "AM",
+          "notification": true
+        }
+      },
+      "Dhuhr": {
+        "start": {
+          "time": "01:24",
+          "clock": "PM",
+          "notification": true
+        },
+        "end": {
+          "time": "02:00",
+          "clock": "PM",
+          "notification": true
+        }
+      },
+      "Asr": {
+        "start": {
+          "time": "04:58",
+          "clock": "PM",
+          "notification": true
+        },
+        "end": {
+          "time": "06:00",
+          "clock": "PM",
+          "notification": true
+        }
+      },
+      "Maghrib": {
+        "start": {
+          "time": "07:42",
+          "clock": "PM",
+          "notification": true
+        },
+        "end": {
+          "time": "07:47",
+          "clock": "PM",
+          "notification": true
+        }
+      },
+      "Isha": {
+        "start": {
+          "time": "08:51",
+          "clock": "PM",
+          "notification": true
+        },
+        "end": {
+          "time": "09:15",
+          "clock": "PM",
+          "notification": true
+        }
+      }
+    },
+    "16-31": {
+      "Fajr": {
+        "start": {
+          "time": "05:57",
+          "clock": "AM",
+          "notification": true
+        },
+        "end": {
+          "time": "06:15",
+          "clock": "AM",
+          "notification": true
+        }
+      },
+      "Dhuhr": {
+        "start": {
+          "time": "01:24",
+          "clock": "PM",
+          "notification": true
+        },
+        "end": {
+          "time": "02:00",
+          "clock": "PM",
+          "notification": true
+        }
+      },
+      "Asr": {
+        "start": {
+          "time": "04:58",
+          "clock": "PM",
+          "notification": true
+        },
+        "end": {
+          "time": "06:00",
+          "clock": "PM",
+          "notification": true
+        }
+      },
+      "Maghrib": {
+        "start": {
+          "time": "07:42",
+          "clock": "PM",
+          "notification": true
+        },
+        "end": {
+          "time": "07:47",
+          "clock": "PM",
+          "notification": true
+        }
+      },
+      "Isha": {
+        "start": {
+          "time": "08:51",
+          "clock": "PM",
+          "notification": true
+        },
+        "end": {
+          "time": "09:15",
+          "clock": "PM",
+          "notification": true
+        }
+      }
+    }
+  },
+  "November": {
+    "1-2": {
+      "Fajr": {
+        "start": {
+          "time": "05:57",
+          "clock": "AM",
+          "notification": true
+        },
+        "end": {
+          "time": "06:15",
+          "clock": "AM",
+          "notification": true
+        }
+      },
+      "Dhuhr": {
+        "start": {
+          "time": "01:24",
+          "clock": "PM",
+          "notification": true
+        },
+        "end": {
+          "time": "02:00",
+          "clock": "PM",
+          "notification": true
+        }
+      },
+      "Asr": {
+        "start": {
+          "time": "04:58",
+          "clock": "PM",
+          "notification": true
+        },
+        "end": {
+          "time": "06:00",
+          "clock": "PM",
+          "notification": true
+        }
+      },
+      "Maghrib": {
+        "start": {
+          "time": "07:42",
+          "clock": "PM",
+          "notification": true
+        },
+        "end": {
+          "time": "07:47",
+          "clock": "PM",
+          "notification": true
+        }
+      },
+      "Isha": {
+        "start": {
+          "time": "08:51",
+          "clock": "PM",
+          "notification": true
+        },
+        "end": {
+          "time": "09:15",
+          "clock": "PM",
+          "notification": true
+        }
+      }
+    },
+    "3-30": {
+      "Fajr": {
+        "start": {
+          "time": "05:57",
+          "clock": "AM",
+          "notification": true
+        },
+        "end": {
+          "time": "06:15",
+          "clock": "AM",
+          "notification": true
+        }
+      },
+      "Dhuhr": {
+        "start": {
+          "time": "01:24",
+          "clock": "PM",
+          "notification": true
+        },
+        "end": {
+          "time": "02:00",
+          "clock": "PM",
+          "notification": true
+        }
+      },
+      "Asr": {
+        "start": {
+          "time": "04:58",
+          "clock": "PM",
+          "notification": true
+        },
+        "end": {
+          "time": "06:00",
+          "clock": "PM",
+          "notification": true
+        }
+      },
+      "Maghrib": {
+        "start": {
+          "time": "07:42",
+          "clock": "PM",
+          "notification": true
+        },
+        "end": {
+          "time": "07:47",
+          "clock": "PM",
+          "notification": true
+        }
+      },
+      "Isha": {
+        "start": {
+          "time": "08:51",
+          "clock": "PM",
+          "notification": true
+        },
+        "end": {
+          "time": "09:15",
+          "clock": "PM",
+          "notification": true
+        }
+      }
+    }
+  },
+  "December": {
+    "1-15": {
+      "Fajr": {
+        "start": {
+          "time": "05:57",
+          "clock": "AM",
+          "notification": true
+        },
+        "end": {
+          "time": "06:15",
+          "clock": "AM",
+          "notification": true
+        }
+      },
+      "Dhuhr": {
+        "start": {
+          "time": "01:24",
+          "clock": "PM",
+          "notification": true
+        },
+        "end": {
+          "time": "02:00",
+          "clock": "PM",
+          "notification": true
+        }
+      },
+      "Asr": {
+        "start": {
+          "time": "04:58",
+          "clock": "PM",
+          "notification": true
+        },
+        "end": {
+          "time": "06:00",
+          "clock": "PM",
+          "notification": true
+        }
+      },
+      "Maghrib": {
+        "start": {
+          "time": "07:42",
+          "clock": "PM",
+          "notification": true
+        },
+        "end": {
+          "time": "07:47",
+          "clock": "PM",
+          "notification": true
+        }
+      },
+      "Isha": {
+        "start": {
+          "time": "08:51",
+          "clock": "PM",
+          "notification": true
+        },
+        "end": {
+          "time": "09:15",
+          "clock": "PM",
+          "notification": true
+        }
+      }
+    },
+    "16-31": {
+      "Fajr": {
+        "start": {
+          "time": "05:57",
+          "clock": "AM",
+          "notification": true
+        },
+        "end": {
+          "time": "06:15",
+          "clock": "AM",
+          "notification": true
+        }
+      },
+      "Dhuhr": {
+        "start": {
+          "time": "01:24",
+          "clock": "PM",
+          "notification": true
+        },
+        "end": {
+          "time": "02:00",
+          "clock": "PM",
+          "notification": true
+        }
+      },
+      "Asr": {
+        "start": {
+          "time": "04:58",
+          "clock": "PM",
+          "notification": true
+        },
+        "end": {
+          "time": "06:00",
+          "clock": "PM",
+          "notification": true
+        }
+      },
+      "Maghrib": {
+        "start": {
+          "time": "07:42",
+          "clock": "PM",
+          "notification": true
+        },
+        "end": {
+          "time": "07:47",
+          "clock": "PM",
+          "notification": true
+        }
+      },
+      "Isha": {
+        "start": {
+          "time": "08:51",
+          "clock": "PM",
+          "notification": true
+        },
+        "end": {
+          "time": "09:15",
+          "clock": "PM",
+          "notification": true
+        }
+      }
+    }
+  }
+}

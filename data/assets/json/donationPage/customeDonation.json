@@ -1,0 +1,19 @@
+{
+  "donation": [
+    {
+      "title": "Help for PALESTINE",
+      "amount": 25,
+      "link": "https://payments.madinaapps.com/ICCMWmasjid/e8ea7aa0-6961-11ed-8091-0a5309febefe"
+    },
+    {
+      "title": "Zakat",
+      "amount": 25,
+      "link": "https://payments.madinaapps.com/ICCMWmasjid/e8e1572c-6961-11ed-8091-0a5309febefe"
+    },
+    {
+      "title": "Sadaqah",
+      "amount": 25,
+      "link": "https://payments.madinaapps.com/ICCMWmasjid/e8e1595c-6961-11ed-8091-0a5309febefe"
+    }
+  ]
+}

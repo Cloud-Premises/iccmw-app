@@ -1,0 +1,186 @@
+{
+  "September": {
+    "1-15": {
+      "Fajr": {
+        "start": "05:57 AM",
+        "end": "06:15 AM"
+      },
+      "Dhuhr": {
+        "start": "01:24 PM",
+        "end": "02:00 PM"
+      },
+      "Asr": {
+        "start": "04:58 PM",
+        "end": "06:00 PM"
+      },
+      "Maghrib": {
+        "start": "07:42 PM",
+        "end": "07:47 PM"
+      },
+      "Isha": {
+        "start": "08:51 PM",
+        "end": "09:15 PM"
+      }
+    },
+    "16-30": {
+      "Fajr": {
+        "start": "05:57 AM",
+        "end": "06:15 AM"
+      },
+      "Dhuhr": {
+        "start": "01:24 PM",
+        "end": "02:00 PM"
+      },
+      "Asr": {
+        "start": "04:58 PM",
+        "end": "06:00 PM"
+      },
+      "Maghrib": {
+        "start": "07:42 PM",
+        "end": "07:47 PM"
+      },
+      "Isha": {
+        "start": "08:51 PM",
+        "end": "09:15 PM"
+      }
+    }
+  },
+  "October": {
+    "1-15": {
+      "Fajr": {
+        "start": "05:57 AM",
+        "end": "06:15 AM"
+      },
+      "Dhuhr": {
+        "start": "01:24 PM",
+        "end": "02:00 PM"
+      },
+      "Asr": {
+        "start": "04:58 PM",
+        "end": "06:00 PM"
+      },
+      "Maghrib": {
+        "start": "07:42 PM",
+        "end": "07:47 PM"
+      },
+      "Isha": {
+        "start": "08:51 PM",
+        "end": "09:15 PM"
+      }
+    },
+    "16-31": {
+      "Fajr": {
+        "start": "05:57 AM",
+        "end": "06:15 AM"
+      },
+      "Dhuhr": {
+        "start": "01:24 PM",
+        "end": "02:00 PM"
+      },
+      "Asr": {
+        "start": "04:58 PM",
+        "end": "06:00 PM"
+      },
+      "Maghrib": {
+        "start": "07:42 PM",
+        "end": "07:47 PM"
+      },
+      "Isha": {
+        "start": "08:51 PM",
+        "end": "09:15 PM"
+      }
+    }
+  },
+  "November": {
+    "1-2": {
+      "Fajr": {
+        "start": "05:57 AM",
+        "end": "06:15 AM"
+      },
+      "Dhuhr": {
+        "start": "01:24 PM",
+        "end": "02:00 PM"
+      },
+      "Asr": {
+        "start": "04:58 PM",
+        "end": "06:00 PM"
+      },
+      "Maghrib": {
+        "start": "07:42 PM",
+        "end": "07:47 PM"
+      },
+      "Isha": {
+        "start": "08:51 PM",
+        "end": "09:15 PM"
+      }
+    },
+    "3-30": {
+      "Fajr": {
+        "start": "05:57 AM",
+        "end": "06:15 AM"
+      },
+      "Dhuhr": {
+        "start": "01:24 PM",
+        "end": "02:00 PM"
+      },
+      "Asr": {
+        "start": "04:58 PM",
+        "end": "06:00 PM"
+      },
+      "Maghrib": {
+        "start": "07:42 PM",
+        "end": "07:47 PM"
+      },
+      "Isha": {
+        "start": "08:51 PM",
+        "end": "09:15 PM"
+      }
+    }
+  },
+  "December": {
+    "1-15": {
+      "Fajr": {
+        "start": "05:57 AM",
+        "end": "06:15 AM"
+      },
+      "Dhuhr": {
+        "start": "01:24 PM",
+        "end": "02:00 PM"
+      },
+      "Asr": {
+        "start": "04:58 PM",
+        "end": "06:00 PM"
+      },
+      "Maghrib": {
+        "start": "07:42 PM",
+        "end": "07:47 PM"
+      },
+      "Isha": {
+        "start": "08:51 PM",
+        "end": "09:15 PM"
+      }
+    },
+    "16-31": {
+      "Fajr": {
+        "start": "05:57 AM",
+        "end": "06:15 AM"
+      },
+      "Dhuhr": {
+        "start": "01:24 PM",
+        "end": "02:00 PM"
+      },
+      "Asr": {
+        "start": "04:58 PM",
+        "end": "06:00 PM"
+      },
+      "Maghrib": {
+        "start": "07:42 PM",
+        "end": "07:47 PM"
+      },
+      "Isha": {
+        "start": "08:51 PM",
+        "end": "09:15 PM"
+      }
+    }
+  }
+}
