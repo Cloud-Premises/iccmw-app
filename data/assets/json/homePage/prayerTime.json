@@ -1865,61 +1865,61 @@
     "1": {
       "Fajr": {
         "start": {
-          "time": "05:57",
+          "time": "9:57",
           "clock": "AM",
           "notification": true
         },
         "end": {
-          "time": "06:15",
+          "time": "10:12",
           "clock": "AM",
           "notification": true
         }
       },
       "Dhuhr": {
         "start": {
-          "time": "01:24",
+          "time": "4:51",
           "clock": "PM",
           "notification": true
         },
         "end": {
-          "time": "02:00",
+          "time": "5:06",
           "clock": "PM",
           "notification": true
         }
       },
       "Asr": {
         "start": {
-          "time": "04:58",
+          "time": "8:02",
           "clock": "PM",
           "notification": true
         },
         "end": {
-          "time": "06:00",
+          "time": "8:17",
           "clock": "PM",
           "notification": true
         }
       },
       "Maghrib": {
         "start": {
-          "time": "07:42",
+          "time": "10:32",
           "clock": "PM",
           "notification": true
         },
         "end": {
-          "time": "07:47",
+          "time": "10:47",
           "clock": "PM",
           "notification": true
         }
       },
       "Isha": {
         "start": {
-          "time": "08:51",
+          "time": "11:45",
           "clock": "PM",
           "notification": true
         },
         "end": {
-          "time": "09:15",
-          "clock": "PM",
+          "time": "12:00",
+          "clock": "AM",
           "notification": true
         }
       }
@@ -1927,61 +1927,61 @@
     "2": {
       "Fajr": {
         "start": {
-          "time": "05:57",
+          "time": "9:57",
           "clock": "AM",
           "notification": true
         },
         "end": {
-          "time": "06:15",
+          "time": "10:12",
           "clock": "AM",
           "notification": true
         }
       },
       "Dhuhr": {
         "start": {
-          "time": "01:24",
+          "time": "4:51",
           "clock": "PM",
           "notification": true
         },
         "end": {
-          "time": "02:00",
+          "time": "5:06",
           "clock": "PM",
           "notification": true
         }
       },
       "Asr": {
         "start": {
-          "time": "04:58",
+          "time": "8:02",
           "clock": "PM",
           "notification": true
         },
         "end": {
-          "time": "06:00",
+          "time": "8:17",
           "clock": "PM",
           "notification": true
         }
       },
       "Maghrib": {
         "start": {
-          "time": "07:42",
+          "time": "10:32",
           "clock": "PM",
           "notification": true
         },
         "end": {
-          "time": "07:47",
+          "time": "10:47",
           "clock": "PM",
           "notification": true
         }
       },
       "Isha": {
         "start": {
-          "time": "08:51",
+          "time": "11:45",
           "clock": "PM",
           "notification": true
         },
         "end": {
-          "time": "09:15",
-          "clock": "PM",
+          "time": "12:00",
+          "clock": "AM",
           "notification": true
         }
       }
@@ -1989,61 +1989,61 @@
     "3": {
       "Fajr": {
         "start": {
-          "time": "05:57",
+          "time": "9:57",
           "clock": "AM",
           "notification": true
         },
         "end": {
-          "time": "06:15",
+          "time": "10:12",
           "clock": "AM",
           "notification": true
         }
       },
       "Dhuhr": {
         "start": {
-          "time": "01:24",
+          "time": "4:51",
           "clock": "PM",
           "notification": true
         },
         "end": {
-          "time": "02:00",
+          "time": "5:06",
           "clock": "PM",
           "notification": true
         }
       },
       "Asr": {
         "start": {
-          "time": "04:58",
+          "time": "8:02",
           "clock": "PM",
           "notification": true
         },
         "end": {
-          "time": "06:00",
+          "time": "8:17",
           "clock": "PM",
           "notification": true
         }
       },
       "Maghrib": {
         "start": {
-          "time": "07:42",
+          "time": "10:32",
           "clock": "PM",
           "notification": true
         },
         "end": {
-          "time": "07:47",
+          "time": "10:47",
           "clock": "PM",
           "notification": true
         }
       },
       "Isha": {
         "start": {
-          "time": "08:51",
+          "time": "11:45",
           "clock": "PM",
           "notification": true
         },
         "end": {
-          "time": "09:15",
-          "clock": "PM",
+          "time": "12:00",
+          "clock": "AM",
           "notification": true
         }
       }
@@ -2051,61 +2051,61 @@
     "4": {
       "Fajr": {
         "start": {
-          "time": "05:57",
+          "time": "9:57",
           "clock": "AM",
           "notification": true
         },
         "end": {
-          "time": "06:15",
+          "time": "10:12",
           "clock": "AM",
           "notification": true
         }
       },
       "Dhuhr": {
         "start": {
-          "time": "01:24",
+          "time": "4:51",
           "clock": "PM",
           "notification": true
         },
         "end": {
-          "time": "02:00",
+          "time": "5:06",
           "clock": "PM",
           "notification": true
         }
       },
       "Asr": {
         "start": {
-          "time": "04:58",
+          "time": "8:02",
           "clock": "PM",
           "notification": true
         },
         "end": {
-          "time": "06:00",
+          "time": "8:17",
           "clock": "PM",
           "notification": true
         }
       },
       "Maghrib": {
         "start": {
-          "time": "07:42",
+          "time": "10:32",
           "clock": "PM",
           "notification": true
         },
         "end": {
-          "time": "07:47",
+          "time": "10:47",
           "clock": "PM",
           "notification": true
         }
       },
       "Isha": {
         "start": {
-          "time": "08:51",
+          "time": "11:45",
           "clock": "PM",
           "notification": true
         },
         "end": {
-          "time": "09:15",
-          "clock": "PM",
+          "time": "12:00",
+          "clock": "AM",
           "notification": true
         }
       }
@@ -2113,61 +2113,61 @@
     "5": {
       "Fajr": {
         "start": {
-          "time": "05:57",
+          "time": "9:57",
           "clock": "AM",
           "notification": true
         },
         "end": {
-          "time": "06:15",
+          "time": "10:12",
           "clock": "AM",
           "notification": true
         }
       },
       "Dhuhr": {
         "start": {
-          "time": "01:24",
+          "time": "4:51",
           "clock": "PM",
           "notification": true
         },
         "end": {
-          "time": "02:00",
+          "time": "5:06",
           "clock": "PM",
           "notification": true
         }
       },
       "Asr": {
         "start": {
-          "time": "04:58",
+          "time": "8:02",
           "clock": "PM",
           "notification": true
         },
         "end": {
-          "time": "06:00",
+          "time": "8:17",
           "clock": "PM",
           "notification": true
         }
       },
       "Maghrib": {
         "start": {
-          "time": "07:42",
+          "time": "10:32",
           "clock": "PM",
           "notification": true
         },
         "end": {
-          "time": "07:47",
+          "time": "10:47",
           "clock": "PM",
           "notification": true
         }
       },
       "Isha": {
         "start": {
-          "time": "08:51",
+          "time": "11:45",
           "clock": "PM",
           "notification": true
         },
         "end": {
-          "time": "09:15",
-          "clock": "PM",
+          "time": "12:00",
+          "clock": "AM",
           "notification": true
         }
       }
@@ -2175,61 +2175,61 @@
     "6": {
       "Fajr": {
         "start": {
-          "time": "05:57",
+          "time": "9:57",
           "clock": "AM",
           "notification": true
         },
         "end": {
-          "time": "06:15",
+          "time": "10:12",
           "clock": "AM",
           "notification": true
         }
       },
       "Dhuhr": {
         "start": {
-          "time": "01:24",
+          "time": "4:51",
           "clock": "PM",
           "notification": true
         },
         "end": {
-          "time": "02:00",
+          "time": "5:06",
           "clock": "PM",
           "notification": true
         }
       },
       "Asr": {
         "start": {
-          "time": "04:58",
+          "time": "8:02",
           "clock": "PM",
           "notification": true
         },
         "end": {
-          "time": "06:00",
+          "time": "8:17",
           "clock": "PM",
           "notification": true
         }
       },
       "Maghrib": {
         "start": {
-          "time": "07:42",
+          "time": "10:32",
           "clock": "PM",
           "notification": true
         },
         "end": {
-          "time": "07:47",
+          "time": "10:47",
           "clock": "PM",
           "notification": true
         }
       },
       "Isha": {
         "start": {
-          "time": "08:51",
+          "time": "11:45",
           "clock": "PM",
           "notification": true
         },
         "end": {
-          "time": "09:15",
-          "clock": "PM",
+          "time": "12:00",
+          "clock": "AM",
           "notification": true
         }
       }
@@ -2237,61 +2237,61 @@
     "7": {
       "Fajr": {
         "start": {
-          "time": "05:57",
+          "time": "9:57",
           "clock": "AM",
           "notification": true
         },
         "end": {
-          "time": "06:15",
+          "time": "10:12",
           "clock": "AM",
           "notification": true
         }
       },
       "Dhuhr": {
         "start": {
-          "time": "01:24",
+          "time": "4:51",
           "clock": "PM",
           "notification": true
         },
         "end": {
-          "time": "02:00",
+          "time": "5:06",
           "clock": "PM",
           "notification": true
         }
       },
       "Asr": {
         "start": {
-          "time": "04:58",
+          "time": "8:02",
           "clock": "PM",
           "notification": true
         },
         "end": {
-          "time": "06:00",
+          "time": "8:17",
           "clock": "PM",
           "notification": true
         }
       },
       "Maghrib": {
         "start": {
-          "time": "07:42",
+          "time": "10:32",
           "clock": "PM",
           "notification": true
         },
         "end": {
-          "time": "07:47",
+          "time": "10:47",
           "clock": "PM",
           "notification": true
         }
       },
       "Isha": {
         "start": {
-          "time": "08:51",
+          "time": "11:45",
           "clock": "PM",
           "notification": true
         },
         "end": {
-          "time": "09:15",
-          "clock": "PM",
+          "time": "12:00",
+          "clock": "AM",
           "notification": true
         }
       }
@@ -2299,61 +2299,61 @@
     "8": {
       "Fajr": {
         "start": {
-          "time": "05:57",
+          "time": "9:57",
           "clock": "AM",
           "notification": true
         },
         "end": {
-          "time": "06:15",
+          "time": "10:12",
           "clock": "AM",
           "notification": true
         }
       },
       "Dhuhr": {
         "start": {
-          "time": "01:24",
+          "time": "4:51",
           "clock": "PM",
           "notification": true
         },
         "end": {
-          "time": "02:00",
+          "time": "5:06",
           "clock": "PM",
           "notification": true
         }
       },
       "Asr": {
         "start": {
-          "time": "04:58",
+          "time": "8:02",
           "clock": "PM",
           "notification": true
         },
         "end": {
-          "time": "06:00",
+          "time": "8:17",
           "clock": "PM",
           "notification": true
         }
       },
       "Maghrib": {
         "start": {
-          "time": "07:42",
+          "time": "10:32",
           "clock": "PM",
           "notification": true
         },
         "end": {
-          "time": "07:47",
+          "time": "10:47",
           "clock": "PM",
           "notification": true
         }
       },
       "Isha": {
         "start": {
-          "time": "08:51",
+          "time": "11:45",
           "clock": "PM",
           "notification": true
         },
         "end": {
-          "time": "09:15",
-          "clock": "PM",
+          "time": "12:00",
+          "clock": "AM",
           "notification": true
         }
       }
@@ -2361,61 +2361,61 @@
     "9": {
       "Fajr": {
         "start": {
-          "time": "05:57",
+          "time": "9:57",
           "clock": "AM",
           "notification": true
         },
         "end": {
-          "time": "06:15",
+          "time": "10:12",
           "clock": "AM",
           "notification": true
         }
       },
       "Dhuhr": {
         "start": {
-          "time": "01:24",
+          "time": "4:51",
           "clock": "PM",
           "notification": true
         },
         "end": {
-          "time": "02:00",
+          "time": "5:06",
           "clock": "PM",
           "notification": true
         }
       },
       "Asr": {
         "start": {
-          "time": "04:58",
+          "time": "8:02",
           "clock": "PM",
           "notification": true
         },
         "end": {
-          "time": "06:00",
+          "time": "8:17",
           "clock": "PM",
           "notification": true
         }
       },
       "Maghrib": {
         "start": {
-          "time": "07:42",
+          "time": "10:32",
           "clock": "PM",
           "notification": true
         },
         "end": {
-          "time": "07:47",
+          "time": "10:47",
           "clock": "PM",
           "notification": true
         }
       },
       "Isha": {
         "start": {
-          "time": "08:51",
+          "time": "11:45",
           "clock": "PM",
           "notification": true
         },
         "end": {
-          "time": "09:15",
-          "clock": "PM",
+          "time": "12:00",
+          "clock": "AM",
           "notification": true
         }
       }
@@ -2423,61 +2423,61 @@
     "10": {
       "Fajr": {
         "start": {
-          "time": "05:57",
+          "time": "9:57",
           "clock": "AM",
           "notification": true
         },
         "end": {
-          "time": "06:15",
+          "time": "10:12",
           "clock": "AM",
           "notification": true
         }
       },
       "Dhuhr": {
         "start": {
-          "time": "01:24",
+          "time": "4:51",
           "clock": "PM",
           "notification": true
         },
         "end": {
-          "time": "02:00",
+          "time": "5:06",
           "clock": "PM",
           "notification": true
         }
       },
       "Asr": {
         "start": {
-          "time": "04:58",
+          "time": "8:02",
           "clock": "PM",
           "notification": true
         },
         "end": {
-          "time": "06:00",
+          "time": "8:17",
           "clock": "PM",
           "notification": true
         }
       },
       "Maghrib": {
         "start": {
-          "time": "07:42",
+          "time": "10:32",
           "clock": "PM",
           "notification": true
         },
         "end": {
-          "time": "07:47",
+          "time": "10:47",
           "clock": "PM",
           "notification": true
         }
       },
       "Isha": {
         "start": {
-          "time": "08:51",
+          "time": "11:45",
           "clock": "PM",
           "notification": true
         },
         "end": {
-          "time": "09:15",
-          "clock": "PM",
+          "time": "12:00",
+          "clock": "AM",
           "notification": true
         }
       }
@@ -2485,61 +2485,61 @@
     "11": {
       "Fajr": {
         "start": {
-          "time": "05:57",
+          "time": "9:57",
           "clock": "AM",
           "notification": true
         },
         "end": {
-          "time": "06:15",
+          "time": "10:12",
           "clock": "AM",
           "notification": true
         }
       },
       "Dhuhr": {
         "start": {
-          "time": "01:24",
+          "time": "4:51",
           "clock": "PM",
           "notification": true
         },
         "end": {
-          "time": "02:00",
+          "time": "5:06",
           "clock": "PM",
           "notification": true
         }
       },
       "Asr": {
         "start": {
-          "time": "04:58",
+          "time": "8:02",
           "clock": "PM",
           "notification": true
         },
         "end": {
-          "time": "06:00",
+          "time": "8:17",
           "clock": "PM",
           "notification": true
         }
       },
       "Maghrib": {
         "start": {
-          "time": "07:42",
+          "time": "10:32",
           "clock": "PM",
           "notification": true
         },
         "end": {
-          "time": "07:47",
+          "time": "10:47",
           "clock": "PM",
           "notification": true
         }
       },
       "Isha": {
         "start": {
-          "time": "08:51",
+          "time": "11:45",
           "clock": "PM",
           "notification": true
         },
         "end": {
-          "time": "09:15",
-          "clock": "PM",
+          "time": "12:00",
+          "clock": "AM",
           "notification": true
         }
       }
@@ -2547,61 +2547,61 @@
     "12": {
       "Fajr": {
         "start": {
-          "time": "05:57",
+          "time": "9:57",
           "clock": "AM",
           "notification": true
         },
         "end": {
-          "time": "06:15",
+          "time": "10:12",
           "clock": "AM",
           "notification": true
         }
       },
       "Dhuhr": {
         "start": {
-          "time": "01:24",
+          "time": "4:51",
           "clock": "PM",
           "notification": true
         },
         "end": {
-          "time": "02:00",
+          "time": "5:06",
           "clock": "PM",
           "notification": true
         }
       },
       "Asr": {
         "start": {
-          "time": "04:58",
+          "time": "8:02",
           "clock": "PM",
           "notification": true
         },
         "end": {
-          "time": "06:00",
+          "time": "8:17",
           "clock": "PM",
           "notification": true
         }
       },
       "Maghrib": {
         "start": {
-          "time": "07:42",
+          "time": "10:32",
           "clock": "PM",
           "notification": true
         },
         "end": {
-          "time": "07:47",
+          "time": "10:47",
           "clock": "PM",
           "notification": true
         }
       },
       "Isha": {
         "start": {
-          "time": "08:51",
+          "time": "11:45",
           "clock": "PM",
           "notification": true
         },
         "end": {
-          "time": "09:15",
-          "clock": "PM",
+          "time": "12:00",
+          "clock": "AM",
           "notification": true
         }
       }
@@ -2609,61 +2609,61 @@
     "13": {
       "Fajr": {
         "start": {
-          "time": "05:57",
+          "time": "9:57",
           "clock": "AM",
           "notification": true
         },
         "end": {
-          "time": "06:15",
+          "time": "10:12",
           "clock": "AM",
           "notification": true
         }
       },
       "Dhuhr": {
         "start": {
-          "time": "01:24",
+          "time": "4:51",
           "clock": "PM",
           "notification": true
         },
         "end": {
-          "time": "02:00",
+          "time": "5:06",
           "clock": "PM",
           "notification": true
         }
       },
       "Asr": {
         "start": {
-          "time": "04:58",
+          "time": "8:02",
           "clock": "PM",
           "notification": true
         },
         "end": {
-          "time": "06:00",
+          "time": "8:17",
           "clock": "PM",
           "notification": true
         }
       },
       "Maghrib": {
         "start": {
-          "time": "07:42",
+          "time": "10:32",
           "clock": "PM",
           "notification": true
         },
         "end": {
-          "time": "07:47",
+          "time": "10:47",
           "clock": "PM",
           "notification": true
         }
       },
       "Isha": {
         "start": {
-          "time": "08:51",
+          "time": "11:45",
           "clock": "PM",
           "notification": true
         },
         "end": {
-          "time": "09:15",
-          "clock": "PM",
+          "time": "12:00",
+          "clock": "AM",
           "notification": true
         }
       }
@@ -2671,61 +2671,61 @@
     "14": {
       "Fajr": {
         "start": {
-          "time": "05:57",
+          "time": "9:57",
           "clock": "AM",
           "notification": true
         },
         "end": {
-          "time": "06:15",
+          "time": "10:12",
           "clock": "AM",
           "notification": true
         }
       },
       "Dhuhr": {
         "start": {
-          "time": "01:24",
+          "time": "4:51",
           "clock": "PM",
           "notification": true
         },
         "end": {
-          "time": "02:00",
+          "time": "5:06",
           "clock": "PM",
           "notification": true
         }
       },
       "Asr": {
         "start": {
-          "time": "04:58",
+          "time": "8:02",
           "clock": "PM",
           "notification": true
         },
         "end": {
-          "time": "06:00",
+          "time": "8:17",
           "clock": "PM",
           "notification": true
         }
       },
       "Maghrib": {
         "start": {
-          "time": "07:42",
+          "time": "10:32",
           "clock": "PM",
           "notification": true
         },
         "end": {
-          "time": "07:47",
+          "time": "10:47",
           "clock": "PM",
           "notification": true
         }
       },
       "Isha": {
         "start": {
-          "time": "08:51",
+          "time": "11:45",
           "clock": "PM",
           "notification": true
         },
         "end": {
-          "time": "09:15",
-          "clock": "PM",
+          "time": "12:00",
+          "clock": "AM",
           "notification": true
         }
       }
@@ -2733,61 +2733,61 @@
     "15": {
       "Fajr": {
         "start": {
-          "time": "05:57",
+          "time": "9:57",
           "clock": "AM",
           "notification": true
         },
         "end": {
-          "time": "06:15",
+          "time": "10:12",
           "clock": "AM",
           "notification": true
         }
       },
       "Dhuhr": {
         "start": {
-          "time": "01:24",
+          "time": "4:51",
           "clock": "PM",
           "notification": true
         },
         "end": {
-          "time": "02:00",
+          "time": "5:06",
           "clock": "PM",
           "notification": true
         }
       },
       "Asr": {
         "start": {
-          "time": "04:58",
+          "time": "8:02",
           "clock": "PM",
           "notification": true
         },
         "end": {
-          "time": "06:00",
+          "time": "8:17",
           "clock": "PM",
           "notification": true
         }
       },
       "Maghrib": {
         "start": {
-          "time": "07:42",
+          "time": "10:32",
           "clock": "PM",
           "notification": true
         },
         "end": {
-          "time": "07:47",
+          "time": "10:47",
           "clock": "PM",
           "notification": true
         }
       },
       "Isha": {
         "start": {
-          "time": "08:51",
+          "time": "11:45",
           "clock": "PM",
           "notification": true
         },
         "end": {
-          "time": "09:15",
-          "clock": "PM",
+          "time": "12:00",
+          "clock": "AM",
           "notification": true
         }
       }
@@ -2795,61 +2795,61 @@
     "16": {
       "Fajr": {
         "start": {
-          "time": "05:57",
+          "time": "9:57",
           "clock": "AM",
           "notification": true
         },
         "end": {
-          "time": "06:15",
+          "time": "10:12",
           "clock": "AM",
           "notification": true
         }
       },
       "Dhuhr": {
         "start": {
-          "time": "01:24",
+          "time": "4:51",
           "clock": "PM",
           "notification": true
         },
         "end": {
-          "time": "02:00",
+          "time": "5:06",
           "clock": "PM",
           "notification": true
         }
       },
       "Asr": {
         "start": {
-          "time": "04:58",
+          "time": "8:02",
           "clock": "PM",
           "notification": true
         },
         "end": {
-          "time": "06:00",
+          "time": "8:17",
           "clock": "PM",
           "notification": true
         }
       },
       "Maghrib": {
         "start": {
-          "time": "07:42",
+          "time": "10:32",
           "clock": "PM",
           "notification": true
         },
         "end": {
-          "time": "07:47",
+          "time": "10:47",
           "clock": "PM",
           "notification": true
         }
       },
       "Isha": {
         "start": {
-          "time": "08:51",
+          "time": "11:45",
           "clock": "PM",
           "notification": true
         },
         "end": {
-          "time": "09:15",
-          "clock": "PM",
+          "time": "12:00",
+          "clock": "AM",
           "notification": true
         }
       }
@@ -2857,61 +2857,61 @@
     "17": {
       "Fajr": {
         "start": {
-          "time": "05:57",
+          "time": "9:57",
           "clock": "AM",
           "notification": true
         },
         "end": {
-          "time": "06:15",
+          "time": "10:12",
           "clock": "AM",
           "notification": true
         }
       },
       "Dhuhr": {
         "start": {
-          "time": "01:24",
+          "time": "4:51",
           "clock": "PM",
           "notification": true
         },
         "end": {
-          "time": "02:00",
+          "time": "5:06",
           "clock": "PM",
           "notification": true
         }
       },
       "Asr": {
         "start": {
-          "time": "04:58",
+          "time": "8:02",
           "clock": "PM",
           "notification": true
         },
         "end": {
-          "time": "06:00",
+          "time": "8:17",
           "clock": "PM",
           "notification": true
         }
       },
       "Maghrib": {
         "start": {
-          "time": "07:42",
+          "time": "10:32",
           "clock": "PM",
           "notification": true
         },
         "end": {
-          "time": "07:47",
+          "time": "10:47",
           "clock": "PM",
           "notification": true
         }
       },
       "Isha": {
         "start": {
-          "time": "08:51",
+          "time": "11:45",
           "clock": "PM",
           "notification": true
         },
         "end": {
-          "time": "09:15",
-          "clock": "PM",
+          "time": "12:00",
+          "clock": "AM",
           "notification": true
         }
       }
@@ -2919,61 +2919,61 @@
     "18": {
       "Fajr": {
         "start": {
-          "time": "05:57",
+          "time": "9:57",
           "clock": "AM",
           "notification": true
         },
         "end": {
-          "time": "06:15",
+          "time": "10:12",
           "clock": "AM",
           "notification": true
         }
       },
       "Dhuhr": {
         "start": {
-          "time": "01:24",
+          "time": "4:51",
           "clock": "PM",
           "notification": true
         },
         "end": {
-          "time": "02:00",
+          "time": "5:06",
           "clock": "PM",
           "notification": true
         }
       },
       "Asr": {
         "start": {
-          "time": "04:58",
+          "time": "8:02",
           "clock": "PM",
           "notification": true
         },
         "end": {
-          "time": "06:00",
+          "time": "8:17",
           "clock": "PM",
           "notification": true
         }
       },
       "Maghrib": {
         "start": {
-          "time": "07:42",
+          "time": "10:32",
           "clock": "PM",
           "notification": true
         },
         "end": {
-          "time": "07:47",
+          "time": "10:47",
           "clock": "PM",
           "notification": true
         }
       },
       "Isha": {
         "start": {
-          "time": "08:51",
+          "time": "11:45",
           "clock": "PM",
           "notification": true
         },
         "end": {
-          "time": "09:15",
-          "clock": "PM",
+          "time": "12:00",
+          "clock": "AM",
           "notification": true
         }
       }
@@ -2981,61 +2981,61 @@
     "19": {
       "Fajr": {
         "start": {
-          "time": "05:57",
+          "time": "9:57",
           "clock": "AM",
           "notification": true
         },
         "end": {
-          "time": "06:15",
+          "time": "10:12",
           "clock": "AM",
           "notification": true
         }
       },
       "Dhuhr": {
         "start": {
-          "time": "01:24",
+          "time": "4:51",
           "clock": "PM",
           "notification": true
         },
         "end": {
-          "time": "02:00",
+          "time": "5:06",
           "clock": "PM",
           "notification": true
         }
       },
       "Asr": {
         "start": {
-          "time": "04:58",
+          "time": "8:02",
           "clock": "PM",
           "notification": true
         },
         "end": {
-          "time": "06:00",
+          "time": "8:17",
           "clock": "PM",
           "notification": true
         }
       },
       "Maghrib": {
         "start": {
-          "time": "07:42",
+          "time": "10:32",
           "clock": "PM",
           "notification": true
         },
         "end": {
-          "time": "07:47",
+          "time": "10:47",
           "clock": "PM",
           "notification": true
         }
       },
       "Isha": {
         "start": {
-          "time": "08:51",
+          "time": "11:45",
           "clock": "PM",
           "notification": true
         },
         "end": {
-          "time": "09:15",
-          "clock": "PM",
+          "time": "12:00",
+          "clock": "AM",
           "notification": true
         }
       }
@@ -3043,61 +3043,61 @@
     "20": {
       "Fajr": {
         "start": {
-          "time": "05:57",
+          "time": "9:57",
           "clock": "AM",
           "notification": true
         },
         "end": {
-          "time": "06:15",
+          "time": "10:12",
           "clock": "AM",
           "notification": true
         }
       },
       "Dhuhr": {
         "start": {
-          "time": "01:24",
+          "time": "4:51",
           "clock": "PM",
           "notification": true
         },
         "end": {
-          "time": "02:00",
+          "time": "5:06",
           "clock": "PM",
           "notification": true
         }
       },
       "Asr": {
         "start": {
-          "time": "04:58",
+          "time": "8:02",
           "clock": "PM",
           "notification": true
         },
         "end": {
-          "time": "06:00",
+          "time": "8:17",
           "clock": "PM",
           "notification": true
         }
       },
       "Maghrib": {
         "start": {
-          "time": "07:42",
+          "time": "10:32",
           "clock": "PM",
           "notification": true
         },
         "end": {
-          "time": "07:47",
+          "time": "10:47",
           "clock": "PM",
           "notification": true
         }
       },
       "Isha": {
         "start": {
-          "time": "08:51",
+          "time": "11:45",
           "clock": "PM",
           "notification": true
         },
         "end": {
-          "time": "09:15",
-          "clock": "PM",
+          "time": "12:00",
+          "clock": "AM",
           "notification": true
         }
       }
@@ -3105,61 +3105,61 @@
     "21": {
       "Fajr": {
         "start": {
-          "time": "05:57",
+          "time": "9:57",
           "clock": "AM",
           "notification": true
         },
         "end": {
-          "time": "06:15",
+          "time": "10:12",
           "clock": "AM",
           "notification": true
         }
       },
       "Dhuhr": {
         "start": {
-          "time": "01:24",
+          "time": "4:51",
           "clock": "PM",
           "notification": true
         },
         "end": {
-          "time": "02:00",
+          "time": "5:06",
           "clock": "PM",
           "notification": true
         }
       },
       "Asr": {
         "start": {
-          "time": "04:58",
+          "time": "8:02",
           "clock": "PM",
           "notification": true
         },
         "end": {
-          "time": "06:00",
+          "time": "8:17",
           "clock": "PM",
           "notification": true
         }
       },
       "Maghrib": {
         "start": {
-          "time": "07:42",
+          "time": "10:32",
           "clock": "PM",
           "notification": true
         },
         "end": {
-          "time": "07:47",
+          "time": "10:47",
           "clock": "PM",
           "notification": true
         }
       },
       "Isha": {
         "start": {
-          "time": "08:51",
+          "time": "11:45",
           "clock": "PM",
           "notification": true
         },
         "end": {
-          "time": "09:15",
-          "clock": "PM",
+          "time": "12:00",
+          "clock": "AM",
           "notification": true
         }
       }
@@ -3167,61 +3167,61 @@
     "22": {
       "Fajr": {
         "start": {
-          "time": "05:57",
+          "time": "9:57",
           "clock": "AM",
           "notification": true
         },
         "end": {
-          "time": "06:15",
+          "time": "10:12",
           "clock": "AM",
           "notification": true
         }
       },
       "Dhuhr": {
         "start": {
-          "time": "01:24",
+          "time": "4:51",
           "clock": "PM",
           "notification": true
         },
         "end": {
-          "time": "02:00",
+          "time": "5:06",
           "clock": "PM",
           "notification": true
         }
       },
       "Asr": {
         "start": {
-          "time": "04:58",
+          "time": "8:02",
           "clock": "PM",
           "notification": true
         },
         "end": {
-          "time": "06:00",
+          "time": "8:17",
           "clock": "PM",
           "notification": true
         }
       },
       "Maghrib": {
         "start": {
-          "time": "07:42",
+          "time": "10:32",
           "clock": "PM",
           "notification": true
         },
         "end": {
-          "time": "07:47",
+          "time": "10:47",
           "clock": "PM",
           "notification": true
         }
       },
       "Isha": {
         "start": {
-          "time": "08:51",
+          "time": "11:45",
           "clock": "PM",
           "notification": true
         },
         "end": {
-          "time": "09:15",
-          "clock": "PM",
+          "time": "12:00",
+          "clock": "AM",
           "notification": true
         }
       }
@@ -3229,61 +3229,61 @@
     "23": {
       "Fajr": {
         "start": {
-          "time": "05:57",
+          "time": "9:57",
           "clock": "AM",
           "notification": true
         },
         "end": {
-          "time": "06:15",
+          "time": "10:12",
           "clock": "AM",
           "notification": true
         }
       },
       "Dhuhr": {
         "start": {
-          "time": "01:24",
+          "time": "4:51",
           "clock": "PM",
           "notification": true
         },
         "end": {
-          "time": "02:00",
+          "time": "5:06",
           "clock": "PM",
           "notification": true
         }
       },
       "Asr": {
         "start": {
-          "time": "04:58",
+          "time": "8:02",
           "clock": "PM",
           "notification": true
         },
         "end": {
-          "time": "06:00",
+          "time": "8:17",
           "clock": "PM",
           "notification": true
         }
       },
       "Maghrib": {
         "start": {
-          "time": "07:42",
+          "time": "10:32",
           "clock": "PM",
           "notification": true
         },
         "end": {
-          "time": "07:47",
+          "time": "10:47",
           "clock": "PM",
           "notification": true
         }
       },
       "Isha": {
         "start": {
-          "time": "08:51",
+          "time": "11:45",
           "clock": "PM",
           "notification": true
         },
         "end": {
-          "time": "09:15",
-          "clock": "PM",
+          "time": "12:00",
+          "clock": "AM",
           "notification": true
         }
       }
@@ -3291,61 +3291,61 @@
     "24": {
       "Fajr": {
         "start": {
-          "time": "05:57",
+          "time": "9:57",
           "clock": "AM",
           "notification": true
         },
         "end": {
-          "time": "06:15",
+          "time": "10:12",
           "clock": "AM",
           "notification": true
         }
       },
       "Dhuhr": {
         "start": {
-          "time": "01:24",
+          "time": "4:51",
           "clock": "PM",
           "notification": true
         },
         "end": {
-          "time": "02:00",
+          "time": "5:06",
           "clock": "PM",
           "notification": true
         }
       },
       "Asr": {
         "start": {
-          "time": "04:58",
+          "time": "8:02",
           "clock": "PM",
           "notification": true
         },
         "end": {
-          "time": "06:00",
+          "time": "8:17",
           "clock": "PM",
           "notification": true
         }
       },
       "Maghrib": {
         "start": {
-          "time": "07:42",
+          "time": "10:32",
           "clock": "PM",
           "notification": true
         },
         "end": {
-          "time": "07:47",
+          "time": "10:47",
           "clock": "PM",
           "notification": true
         }
       },
       "Isha": {
         "start": {
-          "time": "08:51",
+          "time": "11:45",
           "clock": "PM",
           "notification": true
         },
         "end": {
-          "time": "09:15",
-          "clock": "PM",
+          "time": "12:00",
+          "clock": "AM",
           "notification": true
         }
       }
@@ -3353,61 +3353,61 @@
     "25": {
       "Fajr": {
         "start": {
-          "time": "05:57",
+          "time": "9:57",
           "clock": "AM",
           "notification": true
         },
         "end": {
-          "time": "06:15",
+          "time": "10:12",
           "clock": "AM",
           "notification": true
         }
       },
       "Dhuhr": {
         "start": {
-          "time": "01:24",
+          "time": "4:51",
           "clock": "PM",
           "notification": true
         },
         "end": {
-          "time": "02:00",
+          "time": "5:06",
           "clock": "PM",
           "notification": true
         }
       },
       "Asr": {
         "start": {
-          "time": "04:58",
+          "time": "8:02",
           "clock": "PM",
           "notification": true
         },
         "end": {
-          "time": "06:00",
+          "time": "8:17",
           "clock": "PM",
           "notification": true
         }
       },
       "Maghrib": {
         "start": {
-          "time": "07:42",
+          "time": "10:32",
           "clock": "PM",
           "notification": true
         },
         "end": {
-          "time": "07:47",
+          "time": "10:47",
           "clock": "PM",
           "notification": true
         }
       },
       "Isha": {
         "start": {
-          "time": "08:51",
+          "time": "11:45",
           "clock": "PM",
           "notification": true
         },
         "end": {
-          "time": "09:15",
-          "clock": "PM",
+          "time": "12:00",
+          "clock": "AM",
           "notification": true
         }
       }
@@ -3415,61 +3415,61 @@
     "26": {
       "Fajr": {
         "start": {
-          "time": "05:57",
+          "time": "9:57",
           "clock": "AM",
           "notification": true
         },
         "end": {
-          "time": "06:15",
+          "time": "10:12",
           "clock": "AM",
           "notification": true
         }
       },
       "Dhuhr": {
         "start": {
-          "time": "01:24",
+          "time": "4:51",
           "clock": "PM",
           "notification": true
         },
         "end": {
-          "time": "02:00",
+          "time": "5:06",
           "clock": "PM",
           "notification": true
         }
       },
       "Asr": {
         "start": {
-          "time": "04:58",
+          "time": "8:02",
           "clock": "PM",
           "notification": true
         },
         "end": {
-          "time": "06:00",
+          "time": "8:17",
           "clock": "PM",
           "notification": true
         }
       },
       "Maghrib": {
         "start": {
-          "time": "07:42",
+          "time": "10:32",
           "clock": "PM",
           "notification": true
         },
         "end": {
-          "time": "07:47",
+          "time": "10:47",
           "clock": "PM",
           "notification": true
         }
       },
       "Isha": {
         "start": {
-          "time": "08:51",
+          "time": "11:45",
           "clock": "PM",
           "notification": true
         },
         "end": {
-          "time": "09:15",
-          "clock": "PM",
+          "time": "12:00",
+          "clock": "AM",
           "notification": true
         }
       }
@@ -3477,61 +3477,61 @@
     "27": {
       "Fajr": {
         "start": {
-          "time": "05:57",
+          "time": "9:57",
           "clock": "AM",
           "notification": true
         },
         "end": {
-          "time": "06:15",
+          "time": "10:12",
           "clock": "AM",
           "notification": true
         }
       },
       "Dhuhr": {
         "start": {
-          "time": "01:24",
+          "time": "4:51",
           "clock": "PM",
           "notification": true
         },
         "end": {
-          "time": "02:00",
+          "time": "5:06",
           "clock": "PM",
           "notification": true
         }
       },
       "Asr": {
         "start": {
-          "time": "04:58",
+          "time": "8:02",
           "clock": "PM",
           "notification": true
         },
         "end": {
-          "time": "06:00",
+          "time": "8:17",
           "clock": "PM",
           "notification": true
         }
       },
       "Maghrib": {
         "start": {
-          "time": "07:42",
+          "time": "10:32",
           "clock": "PM",
           "notification": true
         },
         "end": {
-          "time": "07:47",
+          "time": "10:47",
           "clock": "PM",
           "notification": true
         }
       },
       "Isha": {
         "start": {
-          "time": "08:51",
+          "time": "11:45",
           "clock": "PM",
           "notification": true
         },
         "end": {
-          "time": "09:15",
-          "clock": "PM",
+          "time": "12:00",
+          "clock": "AM",
           "notification": true
         }
       }
@@ -3539,61 +3539,61 @@
     "28": {
       "Fajr": {
         "start": {
-          "time": "05:57",
+          "time": "9:57",
           "clock": "AM",
           "notification": true
         },
         "end": {
-          "time": "06:15",
+          "time": "10:12",
           "clock": "AM",
           "notification": true
         }
       },
       "Dhuhr": {
         "start": {
-          "time": "01:24",
+          "time": "4:51",
           "clock": "PM",
           "notification": true
         },
         "end": {
-          "time": "02:00",
+          "time": "5:06",
           "clock": "PM",
           "notification": true
         }
       },
       "Asr": {
         "start": {
-          "time": "04:58",
+          "time": "8:02",
           "clock": "PM",
           "notification": true
         },
         "end": {
-          "time": "06:00",
+          "time": "8:17",
           "clock": "PM",
           "notification": true
         }
       },
       "Maghrib": {
         "start": {
-          "time": "07:42",
+          "time": "10:32",
           "clock": "PM",
           "notification": true
         },
         "end": {
-          "time": "07:47",
+          "time": "10:47",
           "clock": "PM",
           "notification": true
         }
       },
       "Isha": {
         "start": {
-          "time": "08:51",
+          "time": "11:45",
           "clock": "PM",
           "notification": true
         },
         "end": {
-          "time": "09:15",
-          "clock": "PM",
+          "time": "12:00",
+          "clock": "AM",
           "notification": true
         }
       }
@@ -3601,61 +3601,61 @@
     "29": {
       "Fajr": {
         "start": {
-          "time": "05:57",
+          "time": "9:57",
           "clock": "AM",
           "notification": true
         },
         "end": {
-          "time": "06:15",
+          "time": "10:12",
           "clock": "AM",
           "notification": true
         }
       },
       "Dhuhr": {
         "start": {
-          "time": "01:24",
+          "time": "4:51",
           "clock": "PM",
           "notification": true
         },
         "end": {
-          "time": "02:00",
+          "time": "5:06",
           "clock": "PM",
           "notification": true
         }
       },
       "Asr": {
         "start": {
-          "time": "04:58",
+          "time": "8:02",
           "clock": "PM",
           "notification": true
         },
         "end": {
-          "time": "06:00",
+          "time": "8:17",
           "clock": "PM",
           "notification": true
         }
       },
       "Maghrib": {
         "start": {
-          "time": "07:42",
+          "time": "10:32",
           "clock": "PM",
           "notification": true
         },
         "end": {
-          "time": "07:47",
+          "time": "10:47",
           "clock": "PM",
           "notification": true
         }
       },
       "Isha": {
         "start": {
-          "time": "08:51",
+          "time": "11:45",
           "clock": "PM",
           "notification": true
         },
         "end": {
-          "time": "09:15",
-          "clock": "PM",
+          "time": "12:00",
+          "clock": "AM",
           "notification": true
         }
       }
@@ -3663,61 +3663,61 @@
     "30": {
       "Fajr": {
         "start": {
-          "time": "05:57",
+          "time": "9:57",
           "clock": "AM",
           "notification": true
         },
         "end": {
-          "time": "06:15",
+          "time": "10:12",
           "clock": "AM",
           "notification": true
         }
       },
       "Dhuhr": {
         "start": {
-          "time": "01:24",
+          "time": "4:51",
           "clock": "PM",
           "notification": true
         },
         "end": {
-          "time": "02:00",
+          "time": "5:06",
           "clock": "PM",
           "notification": true
         }
       },
       "Asr": {
         "start": {
-          "time": "04:58",
+          "time": "8:02",
           "clock": "PM",
           "notification": true
         },
         "end": {
-          "time": "06:00",
+          "time": "8:17",
           "clock": "PM",
           "notification": true
         }
       },
       "Maghrib": {
         "start": {
-          "time": "07:42",
+          "time": "10:32",
           "clock": "PM",
           "notification": true
         },
         "end": {
-          "time": "07:47",
+          "time": "10:47",
           "clock": "PM",
           "notification": true
         }
       },
       "Isha": {
         "start": {
-          "time": "08:51",
+          "time": "11:45",
           "clock": "PM",
           "notification": true
         },
         "end": {
-          "time": "09:15",
-          "clock": "PM",
+          "time": "12:00",
+          "clock": "AM",
           "notification": true
         }
       }
@@ -3725,61 +3725,61 @@
     "31": {
       "Fajr": {
         "start": {
-          "time": "05:57",
+          "time": "9:57",
           "clock": "AM",
           "notification": true
         },
         "end": {
-          "time": "06:15",
+          "time": "10:12",
           "clock": "AM",
           "notification": true
         }
       },
       "Dhuhr": {
         "start": {
-          "time": "01:24",
+          "time": "4:51",
           "clock": "PM",
           "notification": true
         },
         "end": {
-          "time": "02:00",
+          "time": "5:06",
           "clock": "PM",
           "notification": true
         }
       },
       "Asr": {
         "start": {
-          "time": "04:58",
+          "time": "8:02",
           "clock": "PM",
           "notification": true
         },
         "end": {
-          "time": "06:00",
+          "time": "8:17",
           "clock": "PM",
           "notification": true
         }
       },
       "Maghrib": {
         "start": {
-          "time": "07:42",
+          "time": "10:32",
           "clock": "PM",
           "notification": true
         },
         "end": {
-          "time": "07:47",
+          "time": "10:47",
           "clock": "PM",
           "notification": true
         }
       },
       "Isha": {
         "start": {
-          "time": "08:51",
+          "time": "11:45",
           "clock": "PM",
           "notification": true
         },
         "end": {
-          "time": "09:15",
-          "clock": "PM",
+          "time": "12:00",
+          "clock": "AM",
           "notification": true
         }
       }
