@@ -41,9 +41,9 @@ The ICCMW app provides a comprehensive digital platform for accessing local masj
 
 | So No. | Documentation Name            | Documentation Link                                                 | Repository Link                                                               |
 | ------ | ----------------------------- | ------------------------------------------------------------------ | ----------------------------------------------------------------------------- |
-| 1.     | ICCMW Masjid App Documentation | [ICCMW Masjid App Documentation](./docs/quran-app-documentation.md) | [ICCMW Masjid App](https://github.com/Cloud-Premises/quran-application)           |
-| 2.     | Flutter App                   | [Flutter App](./docs/flutter-quran-app.md)                         | [Flutter App](https://github.com/Cloud-Premises/quran-app-flutter-standalone) |
-| 3.     | React App                     | [React App](./docs/react-quran-app.md)                             | [React App](https://github.com/Cloud-Premises/react-quran-app)                   |
+| 1.     | ICCMW Masjid App Documentation | [ICCMW Masjid App Documentation](./docs/iccmw-app-documentation.md) | [ICCMW Masjid App](https://github.com/Cloud-Premises/iccmw-application)           |
+| 2.     | Flutter App                   | [Flutter App](./docs/flutter-iccmw-app.md)                         | [Flutter App](https://github.com/Cloud-Premises/iccmw-app-flutter-standalone) |
+| 3.     | React App                     | [React App](./docs/react-iccmw-app.md)                             | [React App](https://github.com/Cloud-Premises/react-iccmw-app)                   |
 
 ## Installation
 
