@@ -131,36 +131,17 @@
             ]
         },
         {
-            "title": "",
+            "title": "ICCMW Miladun Nabi",
             "date": {
-                "month": "August",
-                "day": 12,
+                "month": "September",
+                "day": 15,
                 "year": 2024
             },
             "images": [
-                ""
-            ]
-        },
-        {
-            "title": "",
-            "date": {
-                "month": "August",
-                "day": 12,
-                "year": 2024
-            },
-            "images": [
-                ""
-            ]
-        },
-        {
-            "title": "",
-            "date": {
-                "month": "August",
-                "day": 12,
-                "year": 2024
-            },
-            "images": [
-                ""
+                "https://raw.githubusercontent.com/Cloud-Premises/iccmw-app/refs/heads/main/assets/images/events/Miladun%20Nabi%20in%20ICCMW%20Masjid%20.%20Sep%2015%202024/image%20(1).jpeg",
+                "https://raw.githubusercontent.com/Cloud-Premises/iccmw-app/refs/heads/main/assets/images/events/Miladun%20Nabi%20in%20ICCMW%20Masjid%20.%20Sep%2015%202024/image%20(2).jpeg",
+                "https://raw.githubusercontent.com/Cloud-Premises/iccmw-app/refs/heads/main/assets/images/events/Miladun%20Nabi%20in%20ICCMW%20Masjid%20.%20Sep%2015%202024/image%20(3).jpeg",
+                "https://raw.githubusercontent.com/Cloud-Premises/iccmw-app/refs/heads/main/assets/images/events/Miladun%20Nabi%20in%20ICCMW%20Masjid%20.%20Sep%2015%202024/image%20(4).jpeg"
             ]
         }
     ]
