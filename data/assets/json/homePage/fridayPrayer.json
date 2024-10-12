@@ -1,3 +1,16 @@
 {
-  "friday": ["01:45 PM", "03:30 PM"]
+  "fridayPrayer": [
+    {
+      "title": "First Salah in Church Hall",
+      "khudba": "01:00 PM",
+      "Salah": "01:30 PM",
+      "address": "100 Underhill Street Yonkers NY 10710"
+    },
+    {
+      "title": "First Salah in Church Hall",
+      "khudba": "02:00 PM",
+      "Salah": "02:30 PM",
+      "address": "2 Grandview Blvd Yonkers, NY 10710"
+    }
+  ]
 }
