@@ -1,0 +1,64 @@
+{
+    "events": [
+        {
+            "title": "ICCMW Annual SPORTS BBQ Day",
+            "date": {
+                "month": "August",
+                "day": 12,
+                "year": 2024
+            },
+            "images": [
+                "https://raw.githubusercontent.com/Cloud-Premises/iccmw-app/refs/heads/main/assets/images/events/ICCMW%20Annual%20SPORTS%20BBQ%20Day%20August%2010%202024/image%20(1).jpeg",
+                "https://raw.githubusercontent.com/Cloud-Premises/iccmw-app/refs/heads/main/assets/images/events/ICCMW%20Annual%20SPORTS%20BBQ%20Day%20August%2010%202024/image%20(2).jpeg",
+                "https://raw.githubusercontent.com/Cloud-Premises/iccmw-app/refs/heads/main/assets/images/events/ICCMW%20Annual%20SPORTS%20BBQ%20Day%20August%2010%202024/image%20(3).jpeg",
+                "https://raw.githubusercontent.com/Cloud-Premises/iccmw-app/refs/heads/main/assets/images/events/ICCMW%20Annual%20SPORTS%20BBQ%20Day%20August%2010%202024/image%20(4).jpeg",
+                "https://raw.githubusercontent.com/Cloud-Premises/iccmw-app/refs/heads/main/assets/images/events/ICCMW%20Annual%20SPORTS%20BBQ%20Day%20August%2010%202024/image%20(5).jpeg",
+                "https://raw.githubusercontent.com/Cloud-Premises/iccmw-app/refs/heads/main/assets/images/events/ICCMW%20Annual%20SPORTS%20BBQ%20Day%20August%2010%202024/image%20(6).jpeg",
+                "https://raw.githubusercontent.com/Cloud-Premises/iccmw-app/refs/heads/main/assets/images/events/ICCMW%20Annual%20SPORTS%20BBQ%20Day%20August%2010%202024/image%20(7).jpeg",
+                "https://raw.githubusercontent.com/Cloud-Premises/iccmw-app/refs/heads/main/assets/images/events/ICCMW%20Annual%20SPORTS%20BBQ%20Day%20August%2010%202024/image%20(8).jpeg",
+                "https://raw.githubusercontent.com/Cloud-Premises/iccmw-app/refs/heads/main/assets/images/events/ICCMW%20Annual%20SPORTS%20BBQ%20Day%20August%2010%202024/image%20(9).jpeg"
+            ]
+        },
+        {
+            "title": "ICCMW eid al fitr Event",
+            "date": {
+                "month": "April",
+                "day": 10,
+                "year": 2024
+            },
+            "images": [
+                "https://raw.githubusercontent.com/Cloud-Premises/iccmw-app/refs/heads/main/assets/images/events/ICCMW%20eid%20al%20fitr%20Event%20April%2010%202024/image%20(1).jpeg",
+                "https://raw.githubusercontent.com/Cloud-Premises/iccmw-app/refs/heads/main/assets/images/events/ICCMW%20eid%20al%20fitr%20Event%20April%2010%202024/image%20(2).jpeg",
+                "https://raw.githubusercontent.com/Cloud-Premises/iccmw-app/refs/heads/main/assets/images/events/ICCMW%20eid%20al%20fitr%20Event%20April%2010%202024/image%20(3).jpeg",
+                "https://raw.githubusercontent.com/Cloud-Premises/iccmw-app/refs/heads/main/assets/images/events/ICCMW%20eid%20al%20fitr%20Event%20April%2010%202024/image%20(4).jpeg",
+                "https://raw.githubusercontent.com/Cloud-Premises/iccmw-app/refs/heads/main/assets/images/events/ICCMW%20eid%20al%20fitr%20Event%20April%2010%202024/image%20(5).jpeg",
+                "https://raw.githubusercontent.com/Cloud-Premises/iccmw-app/refs/heads/main/assets/images/events/ICCMW%20eid%20al%20fitr%20Event%20April%2010%202024/image%20(6).jpeg",
+                "https://raw.githubusercontent.com/Cloud-Premises/iccmw-app/refs/heads/main/assets/images/events/ICCMW%20eid%20al%20fitr%20Event%20April%2010%202024/image%20(7).jpeg",
+                "https://raw.githubusercontent.com/Cloud-Premises/iccmw-app/refs/heads/main/assets/images/events/ICCMW%20eid%20al%20fitr%20Event%20April%2010%202024/image%20(8).jpeg",
+                "https://raw.githubusercontent.com/Cloud-Premises/iccmw-app/refs/heads/main/assets/images/events/ICCMW%20eid%20al%20fitr%20Event%20April%2010%202024/image%20(9).jpeg"
+            ]
+        },
+        {
+            "title": "Painting event",
+            "date": {
+                "month": "December",
+                "day": 17,
+                "year": 2023
+            },
+            "images": [
+                "https://raw.githubusercontent.com/Cloud-Premises/iccmw-app/refs/heads/main/assets/images/events/Painting%20event%20Dec%2017%202023/image%20(1).jpeg"
+            ]
+        },
+        {
+            "title": "",
+            "date": {
+                "month": "August",
+                "day": 12,
+                "year": 2024
+            },
+            "images": [
+                ""
+            ]
+        }
+    ]
+}
