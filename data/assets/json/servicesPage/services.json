@@ -6,13 +6,17 @@
       "description": "",
       "data": [
         {
-          "heading": "Dua Request",
+          "heading": "heading 1",
           "desciption:": [
             ""
           ],
           "list": [],
           "image": "",
-          "table": [],
+          "table": {
+            "title": "Contact Information",
+            "color": "yellow",
+            "data": {}
+          },
           "images": [],
           "link": "",
           "links": "",
@@ -23,13 +27,17 @@
           }
         },
         {
-          "heading": "",
+          "heading": "heading 2",
           "desciption:": [
             ""
           ],
           "list": [],
           "image": "",
-          "table": [],
+          "table": {
+            "title": "Contact Information",
+            "color": "yellow",
+            "data": {}
+          },
           "images": [],
           "link": "",
           "links": "",
@@ -73,31 +81,36 @@
       "description": "",
       "data": [
         {
-          "heading": "Dua Request",
+          "heading": "",
           "desciption:": [
             "Get your documents notarized at no charge. Bring a photo ID, and please do not sign the documents beforehand.If needed, please provide your own witnesses for your documents."
           ],
           "list": [
+            "Call 847-824-1100 to confirm that a Notary is available before you come.",
             "Call Br kamal 914-606-0217"
           ],
           "image": "",
-          "table": [
-            {
-              "name": "Br Kamal",
-              "phone": "914-606-0217",
-              "email": ""
-            },
-            {
-              "name": "Br Faiyaz Hassan [Fareed]",
-              "phone": "773-961-4658",
-              "email": "fareed@iccodesplaines.org"
-            },
-            {
-              "name": "Br Mushtaq Khan",
-              "phone": "847-825-4620",
-              "email": ""
-            }
-          ],
+          "table": {
+            "title": "Contact Information",
+            "color": "yellow",
+            "data": [
+              {
+                "name": "Br Kamal",
+                "phone": "914-606-0217",
+                "email": ""
+              },
+              {
+                "name": "Br Faiyaz Hassan [Fareed]",
+                "phone": "773-961-4658",
+                "email": "fareed@iccodesplaines.org"
+              },
+              {
+                "name": "Br Mushtaq Khan",
+                "phone": "847-825-4620",
+                "email": ""
+              }
+            ]
+          },
           "images": [],
           "link": "",
           "links": "",
