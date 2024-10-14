@@ -1,11 +1,7 @@
 {
   "donation": [
     {
-      "title": "Donation for PALESTINE",
-      "link": "https://www.paypal.com/donate?token=oeoCmZAanVwSzD1Ul_GOQRpSjsEVlQCwg7bUAP3dZVLKP4IxbV_NbPvrybRuhH-T6EyQQPaC6ZIXv_8O"
-    },
-    {
-      "title": "Fitra ($15/Family member)",
+      "title": "Donation ICCMW",
       "link": "https://www.paypal.com/donate?token=oeoCmZAanVwSzD1Ul_GOQRpSjsEVlQCwg7bUAP3dZVLKP4IxbV_NbPvrybRuhH-T6EyQQPaC6ZIXv_8O"
     },
     {
@@ -17,7 +13,11 @@
       "link": "https://www.paypal.com/donate?token=oeoCmZAanVwSzD1Ul_GOQRpSjsEVlQCwg7bUAP3dZVLKP4IxbV_NbPvrybRuhH-T6EyQQPaC6ZIXv_8O"
     },
     {
-      "title": "Donation ICCMW",
+      "title": "Fitra ($15/Family member)",
+      "link": "https://www.paypal.com/donate?token=oeoCmZAanVwSzD1Ul_GOQRpSjsEVlQCwg7bUAP3dZVLKP4IxbV_NbPvrybRuhH-T6EyQQPaC6ZIXv_8O"
+    },
+    {
+      "title": "Donation for PALESTINE",
       "link": "https://www.paypal.com/donate?token=oeoCmZAanVwSzD1Ul_GOQRpSjsEVlQCwg7bUAP3dZVLKP4IxbV_NbPvrybRuhH-T6EyQQPaC6ZIXv_8O"
     }
   ]
