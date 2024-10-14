@@ -1,43 +1,109 @@
 {
   "service": [
     {
-      "title": "ICCMW Newcomers and Reverts",
+      "title": "Dua Request",
       "description": "",
       "data": [
         {
-          "heading": "ICCMW Newcomers and Reverts",
+          "heading": "Dua Request",
           "desciption:": [
-            "We welcome you to ICCMW and hope and pray that your move is full of Khair (benefit). At ICCMW we would like to provide a welcoming environment and help newcomers and reverts feel part of the community as soon as possible. We also realize that new reverts to Islam face many challenges and we would like to help them in this transition process.",
-            "ICCMW has a monthly social and we'd like to know you better so that we can welcome and introduce you to the community. If you are a newcomer/revert, please fill the online newcomer signup form (link below) and In'sha'Allah volunteers from the Ansar (helpers) committee will reach out to you to not only welcome you, but and also assist you if you need any help."
+            ""
           ],
           "list": [],
           "image": "",
+          "table": [],
           "images": [],
           "link": "",
-          "links": ""
-        },
-        {
-          "heading": "ICCMW Ansaar (Helpers)",
-          "desciption:": [
-            "The Ansaar program at ICCMW is intended to provide excellent support and mentoring for:"
-          ],
-          "list": [
-            "1. Newcomers to the ICCMW community and",
-            "2. Reverts residing in or moving to the ICCMW community"
-          ],
-          "image": "",
-          "images": [],
-          "link": "",
-          "links": ""
+          "links": "",
+          "form": {
+            "title": "",
+            "submit": "",
+            "feilds": []
+          }
         },
         {
           "heading": "",
-          "desciption:": "It is modeled after the Prophet's (SAW) sunnah of establishing muhajiroon-ansaar (migrant-helper) brotherhood and sisterhood after migrating to Medina, which was critical in maintaining a unified and strong community.",
+          "desciption:": [
+            ""
+          ],
           "list": [],
           "image": "",
+          "table": [],
           "images": [],
-          "link": "https://https://ICCMWmasjid.org/",
-          "links": ""
+          "link": "",
+          "links": "",
+          "form": {
+            "title": "",
+            "submit": "",
+            "feilds": [
+              {
+                "title": "First Name",
+                "dataType": "String",
+                "required": true
+              },
+              {
+                "title": "Last Name",
+                "dataType": "String",
+                "required": true
+              },
+              {
+                "title": "E-mail",
+                "dataType": "String",
+                "required": true
+              },
+              {
+                "title": "Phone",
+                "dataType": "Number",
+                "required": false
+              },
+              {
+                "title": "Dua Request",
+                "dataType": "String",
+                "required": true
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Notary",
+      "description": "",
+      "data": [
+        {
+          "heading": "Dua Request",
+          "desciption:": [
+            "Get your documents notarized at no charge. Bring a photo ID, and please do not sign the documents beforehand.If needed, please provide your own witnesses for your documents."
+          ],
+          "list": [
+            "Call Br kamal 914-606-0217"
+          ],
+          "image": "",
+          "table": [
+            {
+              "name": "Br Kamal",
+              "phone": "914-606-0217",
+              "email": ""
+            },
+            {
+              "name": "Br Faiyaz Hassan [Fareed]",
+              "phone": "773-961-4658",
+              "email": "fareed@iccodesplaines.org"
+            },
+            {
+              "name": "Br Mushtaq Khan",
+              "phone": "847-825-4620",
+              "email": ""
+            }
+          ],
+          "images": [],
+          "link": "",
+          "links": "",
+          "form": {
+            "title": "",
+            "submit": "",
+            "feilds": []
+          }
         }
       ]
     }
