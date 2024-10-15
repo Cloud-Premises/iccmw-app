@@ -7,6 +7,8 @@
                 "id": 101000001,
                 "title": "Chinise fast food restaurant",
                 "subcategoriesId": 101,
+                "description": "",
+                "imageUrl": "",
                 "data": [
                     {
                         "heading": "heading 1",
@@ -56,6 +58,8 @@
                 "id": 101000002,
                 "title": "Pizza hut",
                 "subcategoriesId": 101,
+                "description": "",
+                "imageUrl": "",
                 "data": [
                     {
                         "heading": "heading 1",
