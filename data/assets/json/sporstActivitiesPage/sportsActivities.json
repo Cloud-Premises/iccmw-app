@@ -1,133 +1,58 @@
 {
-    "sportActivities": [
-      {
-        "id": 1,
-        "title": "Dua Request",
-        "description": "",
-        "data": [
-          {
-            "heading": "",
-            "desciption:": [
-              ""
-            ],
-            "list": [],
-            "image": "",
-            "table": {
-              "title": "Contact Information",
-              "color": "yellow",
-              "data": {}
-            },
-            "images": [],
-            "link": "",
-            "links": "",
-            "form": {
-              "title": "",
-              "submit": "",
-              "feilds": []
-            }
+  "sportActivities": [
+    {
+      "id": 1,
+      "title": "Carrom Board Challange",
+      "description": "",
+      "data": [
+        {
+          "heading": "Board Chanllege.",
+          "desciption:": [
+            "Winner will get a amazing car as price."
+          ],
+          "list": [],
+          "image": "",
+          "table": {
+            "title": "",
+            "color": "",
+            "data": {}
           },
-          {
-            "heading": "",
-            "desciption:": [
-              ""
-            ],
-            "list": [],
-            "image": "",
-            "table": {
-              "title": "Contact Information",
-              "color": "yellow",
-              "data": {}
-            },
-            "images": [],
-            "link": "",
-            "links": "",
-            "form": {
-              "title": "",
-              "submit": "",
-              "feilds": [
-                {
-                  "title": "First Name",
-                  "dataType": "String",
-                  "required": true
-                },
-                {
-                  "title": "Last Name",
-                  "dataType": "String",
-                  "required": true
-                },
-                {
-                  "title": "E-mail",
-                  "dataType": "String",
-                  "required": true
-                },
-                {
-                  "title": "Phone",
-                  "dataType": "Number",
-                  "required": false
-                },
-                {
-                  "title": "Dua Request",
-                  "dataType": "String",
-                  "required": true
-                }
-              ]
-            }
+          "images": [],
+          "link": "",
+          "links": "",
+          "form": {
+            "title": "",
+            "submit": "",
+            "feilds": []
           }
-        ]
-      },
-      {
-        "id": 2,
-        "title": "Notary",
-        "description": "",
-        "data": [
-          {
-            "heading": "",
-            "desciption:": [
-              "Get your documents notarized at no charge. Bring a photo ID, and please do not sign the documents beforehand.If needed, please provide your own witnesses for your documents."
-            ],
-            "list": [
-              "Call Br kamal 914-606-0217"
-            ],
-            "image": "",
-            "table": {},
-            "images": [],
-            "link": "",
-            "links": "",
-            "form": {
-              "title": "",
-              "submit": "",
-              "feilds": []
-            }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Soccer Match",
+      "description": "",
+      "data": [
+        {
+          "heading": "",
+          "desciption:": [
+            "Soccer Match timing will be updated soon on whatsapp."
+          ],
+          "list": [
+            ""
+          ],
+          "image": "",
+          "table": {},
+          "images": [],
+          "link": "",
+          "links": "",
+          "form": {
+            "title": "",
+            "submit": "",
+            "feilds": []
           }
-        ]
-      },
-      {
-        "id": 3,
-        "title": "Testing Services",
-        "description": "",
-        "data": [
-          {
-            "heading": "",
-            "desciption:": [
-              "Get your documents notarized at no charge. Bring a photo ID, and please do not sign the documents beforehand.If needed, please provide your own witnesses for your documents.",
-              "Get your documents notarized at no charge. Bring a photo ID, and please do not sign the documents beforehand.If needed, please provide your own witnesses for your documents.",
-              "Get your documents notarized at no charge. Bring a photo ID, and please do not sign the documents beforehand.If needed, please provide your own witnesses for your documents."
-            ],
-            "list": [
-              "Call Br kamal 914-606-0217"
-            ],
-            "image": "",
-            "table": {},
-            "images": [],
-            "link": "",
-            "links": "",
-            "form": {
-              "title": "",
-              "submit": "",
-              "feilds": []
-            }
-          }
-        ]
-      }
-    ]
-  }
+        }
+      ]
+    }
+  ]
+}
