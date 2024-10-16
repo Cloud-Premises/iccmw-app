@@ -152,16 +152,8 @@
                 "year": 2023
             },
             "images": [
-                "https://raw.githubusercontent.com/Cloud-Premises/iccmw-app/refs/heads/main/assets/images/events/ICCMW%20EarthQuake%20Relief/image%20(1).png",
-                "https://raw.githubusercontent.com/Cloud-Premises/iccmw-app/refs/heads/main/assets/images/events/ICCMW%20EarthQuake%20Relief/image%20(2).png",
-                "https://raw.githubusercontent.com/Cloud-Premises/iccmw-app/refs/heads/main/assets/images/events/ICCMW%20EarthQuake%20Relief/image%20(3).png",
-                "https://raw.githubusercontent.com/Cloud-Premises/iccmw-app/refs/heads/main/assets/images/events/ICCMW%20EarthQuake%20Relief/image%20(4).png",
-                "https://raw.githubusercontent.com/Cloud-Premises/iccmw-app/refs/heads/main/assets/images/events/ICCMW%20EarthQuake%20Relief/image%20(5).png",
-                "https://raw.githubusercontent.com/Cloud-Premises/iccmw-app/refs/heads/main/assets/images/events/ICCMW%20EarthQuake%20Relief/image%20(6).png",
-                "https://raw.githubusercontent.com/Cloud-Premises/iccmw-app/refs/heads/main/assets/images/events/ICCMW%20EarthQuake%20Relief/image%20(7).png",
-                "https://raw.githubusercontent.com/Cloud-Premises/iccmw-app/refs/heads/main/assets/images/events/ICCMW%20EarthQuake%20Relief/image%20(8).png",
-                "https://raw.githubusercontent.com/Cloud-Premises/iccmw-app/refs/heads/main/assets/images/events/ICCMW%20EarthQuake%20Relief/image%20(9).png"
-            ]
+                "https://raw.githubusercontent.com/Cloud-Premises/iccmw-app/refs/heads/main/assets/images/events/ICCMW%20EarthQuake%20Relief/image%20(1).png"
+              ]
         }
     ]
 }
