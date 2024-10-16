@@ -23,6 +23,14 @@
             "icon": "assets/images/social_media/whatsapp.png",
             "mediaUrl": "https://chat.whatsapp.com/HuYJ5gW2lyzFzEMEkblRCS",
             "qrImageUrl": "https://raw.githubusercontent.com/Cloud-Premises/iccmw-app/refs/heads/main/assets/images/social_media/whatsapp/image%20(2).jpeg"
+        },
+        {
+            "id": 4,
+            "title": "ICCMW Tesing WhatsApp Group - 3",
+            "description": "",
+            "icon": "assets/images/social_media/whatsapp.png",
+            "mediaUrl": "https://chat.whatsapp.com/HuYJ5gW2lyzFzEMEkblRCS",
+            "qrImageUrl": "https://raw.githubusercontent.com/Cloud-Premises/iccmw-app/refs/heads/main/assets/images/social_media/whatsapp/image%20(2).jpeg"
         }
     ]
 }
