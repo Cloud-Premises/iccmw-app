@@ -1,0 +1,15 @@
+{
+    "sports": {
+        "title": "",
+        "description": "",
+        "sportsList": [
+            "Basket Ball",
+            "Table Tennis",
+            "Volleyball",
+            "Indoor Cricket",
+            "Badminton",
+            "Soccer",
+            "Carrom board"
+        ]
+    }
+}
