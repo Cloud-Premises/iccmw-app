@@ -143,6 +143,17 @@
                 "https://raw.githubusercontent.com/Cloud-Premises/iccmw-app/refs/heads/main/assets/images/events/Miladun%20Nabi%20in%20ICCMW%20Masjid%20.%20Sep%2015%202024/image%20(3).jpeg",
                 "https://raw.githubusercontent.com/Cloud-Premises/iccmw-app/refs/heads/main/assets/images/events/Miladun%20Nabi%20in%20ICCMW%20Masjid%20.%20Sep%2015%202024/image%20(4).jpeg"
             ]
+        },
+        {
+            "title": "ICCMW EarthQuake Relief",
+            "date": {
+                "month": "February",
+                "day": 27,
+                "year": 2023
+            },
+            "images": [
+                ""
+            ]
         }
     ]
 }
