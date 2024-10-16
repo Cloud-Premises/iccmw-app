@@ -6,7 +6,7 @@
             "description": "",
             "icon": "assets/images/social_media/whatsapp.png",
             "mediaUrl": "https://chat.whatsapp.com/HuYJ5gW2lyzFzEMEkblRCS",
-            "qrImageUrl": ""
+            "qrImageUrl": "https://raw.githubusercontent.com/Cloud-Premises/iccmw-app/refs/heads/main/assets/images/social_media/whatsapp/image%20(1).jpeg"
         },
         {
             "id": 2,
@@ -14,7 +14,7 @@
             "description": "",
             "icon": "assets/images/social_media/whatsapp.png",
             "mediaUrl": "https://chat.whatsapp.com/HuYJ5gW2lyzFzEMEkblRCS",
-            "qrImageUrl": ""
+            "qrImageUrl": "https://raw.githubusercontent.com/Cloud-Premises/iccmw-app/refs/heads/main/assets/images/social_media/whatsapp/image%20(2).jpeg"
         }
     ]
 }
