@@ -1,133 +1,84 @@
 {
     "jobPosting": [
-      {
-        "id": 1,
-        "title": "Dua Request",
-        "description": "",
-        "data": [
-          {
-            "heading": "",
-            "desciption:": [
-              ""
-            ],
-            "list": [],
-            "image": "",
-            "table": {
-              "title": "Contact Information",
-              "color": "yellow",
-              "data": {}
-            },
-            "images": [],
-            "link": "",
-            "links": "",
-            "form": {
-              "title": "",
-              "submit": "",
-              "feilds": []
-            }
-          },
-          {
-            "heading": "",
-            "desciption:": [
-              ""
-            ],
-            "list": [],
-            "image": "",
-            "table": {
-              "title": "Contact Information",
-              "color": "yellow",
-              "data": {}
-            },
-            "images": [],
-            "link": "",
-            "links": "",
-            "form": {
-              "title": "",
-              "submit": "",
-              "feilds": [
+        {
+            "id": 1,
+            "title": "Junoir Software Engineer",
+            "description": "",
+            "data": [
                 {
-                  "title": "First Name",
-                  "dataType": "String",
-                  "required": true
-                },
-                {
-                  "title": "Last Name",
-                  "dataType": "String",
-                  "required": true
-                },
-                {
-                  "title": "E-mail",
-                  "dataType": "String",
-                  "required": true
-                },
-                {
-                  "title": "Phone",
-                  "dataType": "Number",
-                  "required": false
-                },
-                {
-                  "title": "Dua Request",
-                  "dataType": "String",
-                  "required": true
+                    "heading": "",
+                    "desciption:": [
+                        "Job Description : "
+                    ],
+                    "list": [],
+                    "image": "",
+                    "table": {
+                        "title": "Contact Details",
+                        "color": "green",
+                        "data": {}
+                    },
+                    "images": [],
+                    "link": "",
+                    "links": "",
+                    "form": {
+                        "title": "",
+                        "submit": "",
+                        "feilds": []
+                    }
                 }
-              ]
-            }
-          }
-        ]
-      },
-      {
-        "id": 2,
-        "title": "Notary",
-        "description": "",
-        "data": [
-          {
-            "heading": "",
-            "desciption:": [
-              "Get your documents notarized at no charge. Bring a photo ID, and please do not sign the documents beforehand.If needed, please provide your own witnesses for your documents."
-            ],
-            "list": [
-              "Call Br kamal 914-606-0217"
-            ],
-            "image": "",
-            "table": {},
-            "images": [],
-            "link": "",
-            "links": "",
-            "form": {
-              "title": "",
-              "submit": "",
-              "feilds": []
-            }
-          }
-        ]
-      },
-      {
-        "id": 3,
-        "title": "Testing Services",
-        "description": "",
-        "data": [
-          {
-            "heading": "",
-            "desciption:": [
-              "Get your documents notarized at no charge. Bring a photo ID, and please do not sign the documents beforehand.If needed, please provide your own witnesses for your documents.",
-              "Get your documents notarized at no charge. Bring a photo ID, and please do not sign the documents beforehand.If needed, please provide your own witnesses for your documents.",
-              "Get your documents notarized at no charge. Bring a photo ID, and please do not sign the documents beforehand.If needed, please provide your own witnesses for your documents."
-            ],
-            "list": [
-              "Call Br kamal 914-606-0217"
-            ],
-            "image": "",
-            "table": {},
-            "images": [],
-            "link": "",
-            "links": "",
-            "form": {
-              "title": "",
-              "submit": "",
-              "feilds": []
-            }
-          }
-        ]
-      }
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Event Manager",
+            "description": "",
+            "data": [
+                {
+                    "heading": "",
+                    "desciption:": [
+                        "Description"
+                    ],
+                    "list": [
+                        "Send us E-mail on @job"
+                    ],
+                    "image": "",
+                    "table": {},
+                    "images": [],
+                    "link": "",
+                    "links": "",
+                    "form": {
+                        "title": "",
+                        "submit": "",
+                        "feilds": []
+                    }
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "title": "Restaurant Manager",
+            "description": "",
+            "data": [
+                {
+                    "heading": "",
+                    "desciption:": [
+                        ""
+                    ],
+                    "list": [
+                        "send resume on Email : job@"
+                    ],
+                    "image": "",
+                    "table": {},
+                    "images": [],
+                    "link": "",
+                    "links": "",
+                    "form": {
+                        "title": "",
+                        "submit": "",
+                        "feilds": []
+                    }
+                }
+            ]
+        }
     ]
-  }
+}
