@@ -3711,6 +3711,67 @@
           "notification": true
         }
       }
+    },
+    "31": {
+      "Fajr": {
+        "start": {
+          "time": "06:15",
+          "clock": "AM",
+          "notification": true
+        },
+        "end": {
+          "time": "06:45",
+          "clock": "AM",
+          "notification": true
+        }
+      },
+      "Dhuhr": {
+        "start": {
+          "time": "01:15",
+          "clock": "PM",
+          "notification": true
+        },
+        "end": {
+          "time": "01:45",
+          "notification": true
+        }
+      },
+      "Asr": {
+        "start": {
+          "time": "04:45",
+          "clock": "PM",
+          "notification": true
+        },
+        "end": {
+          "time": "05:15",
+          "clock": "PM",
+          "notification": true
+        }
+      },
+      "Maghrib": {
+        "start": {
+          "time": "06:12",
+          "clock": "PM",
+          "notification": true
+        },
+        "end": {
+          "time": "06:42",
+          "clock": "PM",
+          "notification": true
+        }
+      },
+      "Isha": {
+        "start": {
+          "time": "08:00",
+          "clock": "PM",
+          "notification": true
+        },
+        "end": {
+          "time": "08:30",
+          "clock": "PM",
+          "notification": true
+        }
+      }
     }
   },
   "November": {
