@@ -2,14 +2,12 @@
   "sportsActivities": [
     {
       "id": 1,
-      "title": "Carrom Board Challange",
+      "title": "volleyball Tournament",
       "description": "",
       "data": [
         {
-          "heading": "Board Chanllege.",
-          "desciption:": [
-            "Winner will get a amazing car as price."
-          ],
+          "heading": "Join volleyball tournament.",
+          "desciption:": ["Date and Time will be update soon."],
           "list": [],
           "image": "",
           "table": {
@@ -17,32 +15,6 @@
             "color": "",
             "data": {}
           },
-          "images": [],
-          "link": "",
-          "links": "",
-          "form": {
-            "title": "",
-            "submit": "",
-            "feilds": []
-          }
-        }
-      ]
-    },
-    {
-      "id": 2,
-      "title": "Soccer Match",
-      "description": "",
-      "data": [
-        {
-          "heading": "",
-          "desciption:": [
-            "Soccer Match timing will be updated soon on whatsapp."
-          ],
-          "list": [
-            ""
-          ],
-          "image": "",
-          "table": {},
           "images": [],
           "link": "",
           "links": "",
