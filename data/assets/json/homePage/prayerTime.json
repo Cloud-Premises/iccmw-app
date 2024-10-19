@@ -1878,11 +1878,11 @@
       "Dhuhr": {
         "start": {
           "time": "04:51",
-          "clock": "PM",
+          "clock": "AM",
           "notification": true
         },
         "end": {
-          "time": "05:06",
+          "time": "01:15",
           "clock": "PM",
           "notification": true
         }
@@ -1894,7 +1894,7 @@
           "notification": true
         },
         "end": {
-          "time": "8:17",
+          "time": "08:17",
           "clock": "PM",
           "notification": true
         }
@@ -1918,7 +1918,7 @@
           "notification": true
         },
         "end": {
-          "time": "11:59",
+          "time": "08:00",
           "clock": "PM",
           "notification": true
         }
@@ -1940,11 +1940,11 @@
       "Dhuhr": {
         "start": {
           "time": "04:51",
-          "clock": "PM",
+          "clock": "AM",
           "notification": true
         },
         "end": {
-          "time": "05:06",
+          "time": "01:15",
           "clock": "PM",
           "notification": true
         }
@@ -1956,7 +1956,7 @@
           "notification": true
         },
         "end": {
-          "time": "8:17",
+          "time": "08:17",
           "clock": "PM",
           "notification": true
         }
@@ -1980,7 +1980,7 @@
           "notification": true
         },
         "end": {
-          "time": "11:59",
+          "time": "08:00",
           "clock": "PM",
           "notification": true
         }
@@ -2002,11 +2002,11 @@
       "Dhuhr": {
         "start": {
           "time": "04:51",
-          "clock": "PM",
+          "clock": "AM",
           "notification": true
         },
         "end": {
-          "time": "05:06",
+          "time": "01:15",
           "clock": "PM",
           "notification": true
         }
@@ -2018,7 +2018,7 @@
           "notification": true
         },
         "end": {
-          "time": "8:17",
+          "time": "08:17",
           "clock": "PM",
           "notification": true
         }
@@ -2042,7 +2042,7 @@
           "notification": true
         },
         "end": {
-          "time": "11:59",
+          "time": "08:00",
           "clock": "PM",
           "notification": true
         }
@@ -2064,11 +2064,11 @@
       "Dhuhr": {
         "start": {
           "time": "04:51",
-          "clock": "PM",
+          "clock": "AM",
           "notification": true
         },
         "end": {
-          "time": "05:06",
+          "time": "01:15",
           "clock": "PM",
           "notification": true
         }
@@ -2080,7 +2080,7 @@
           "notification": true
         },
         "end": {
-          "time": "8:17",
+          "time": "08:17",
           "clock": "PM",
           "notification": true
         }
@@ -2104,7 +2104,7 @@
           "notification": true
         },
         "end": {
-          "time": "11:59",
+          "time": "08:00",
           "clock": "PM",
           "notification": true
         }
@@ -2126,11 +2126,11 @@
       "Dhuhr": {
         "start": {
           "time": "04:51",
-          "clock": "PM",
+          "clock": "AM",
           "notification": true
         },
         "end": {
-          "time": "05:06",
+          "time": "01:15",
           "clock": "PM",
           "notification": true
         }
@@ -2142,7 +2142,7 @@
           "notification": true
         },
         "end": {
-          "time": "8:17",
+          "time": "08:17",
           "clock": "PM",
           "notification": true
         }
@@ -2166,7 +2166,7 @@
           "notification": true
         },
         "end": {
-          "time": "11:59",
+          "time": "08:00",
           "clock": "PM",
           "notification": true
         }
@@ -2188,11 +2188,11 @@
       "Dhuhr": {
         "start": {
           "time": "04:51",
-          "clock": "PM",
+          "clock": "AM",
           "notification": true
         },
         "end": {
-          "time": "05:06",
+          "time": "01:15",
           "clock": "PM",
           "notification": true
         }
@@ -2204,7 +2204,7 @@
           "notification": true
         },
         "end": {
-          "time": "8:17",
+          "time": "08:17",
           "clock": "PM",
           "notification": true
         }
@@ -2228,7 +2228,7 @@
           "notification": true
         },
         "end": {
-          "time": "11:59",
+          "time": "08:00",
           "clock": "PM",
           "notification": true
         }
@@ -2250,11 +2250,11 @@
       "Dhuhr": {
         "start": {
           "time": "04:51",
-          "clock": "PM",
+          "clock": "AM",
           "notification": true
         },
         "end": {
-          "time": "05:06",
+          "time": "01:15",
           "clock": "PM",
           "notification": true
         }
@@ -2266,7 +2266,7 @@
           "notification": true
         },
         "end": {
-          "time": "8:17",
+          "time": "08:17",
           "clock": "PM",
           "notification": true
         }
@@ -2290,7 +2290,7 @@
           "notification": true
         },
         "end": {
-          "time": "11:59",
+          "time": "08:00",
           "clock": "PM",
           "notification": true
         }
@@ -2312,11 +2312,11 @@
       "Dhuhr": {
         "start": {
           "time": "04:51",
-          "clock": "PM",
+          "clock": "AM",
           "notification": true
         },
         "end": {
-          "time": "05:06",
+          "time": "01:15",
           "clock": "PM",
           "notification": true
         }
@@ -2328,7 +2328,7 @@
           "notification": true
         },
         "end": {
-          "time": "8:17",
+          "time": "08:17",
           "clock": "PM",
           "notification": true
         }
@@ -2352,7 +2352,7 @@
           "notification": true
         },
         "end": {
-          "time": "11:59",
+          "time": "08:00",
           "clock": "PM",
           "notification": true
         }
@@ -2374,11 +2374,11 @@
       "Dhuhr": {
         "start": {
           "time": "04:51",
-          "clock": "PM",
+          "clock": "AM",
           "notification": true
         },
         "end": {
-          "time": "05:06",
+          "time": "01:15",
           "clock": "PM",
           "notification": true
         }
@@ -2390,7 +2390,7 @@
           "notification": true
         },
         "end": {
-          "time": "8:17",
+          "time": "08:17",
           "clock": "PM",
           "notification": true
         }
@@ -2414,7 +2414,7 @@
           "notification": true
         },
         "end": {
-          "time": "11:59",
+          "time": "08:00",
           "clock": "PM",
           "notification": true
         }
@@ -2436,11 +2436,11 @@
       "Dhuhr": {
         "start": {
           "time": "04:51",
-          "clock": "PM",
+          "clock": "AM",
           "notification": true
         },
         "end": {
-          "time": "05:06",
+          "time": "01:15",
           "clock": "PM",
           "notification": true
         }
@@ -2452,7 +2452,7 @@
           "notification": true
         },
         "end": {
-          "time": "8:17",
+          "time": "08:17",
           "clock": "PM",
           "notification": true
         }
@@ -2476,7 +2476,7 @@
           "notification": true
         },
         "end": {
-          "time": "11:59",
+          "time": "08:00",
           "clock": "PM",
           "notification": true
         }
@@ -2498,11 +2498,11 @@
       "Dhuhr": {
         "start": {
           "time": "04:51",
-          "clock": "PM",
+          "clock": "AM",
           "notification": true
         },
         "end": {
-          "time": "05:06",
+          "time": "01:15",
           "clock": "PM",
           "notification": true
         }
@@ -2514,7 +2514,7 @@
           "notification": true
         },
         "end": {
-          "time": "8:17",
+          "time": "08:17",
           "clock": "PM",
           "notification": true
         }
@@ -2538,7 +2538,7 @@
           "notification": true
         },
         "end": {
-          "time": "11:59",
+          "time": "08:00",
           "clock": "PM",
           "notification": true
         }
@@ -2560,11 +2560,11 @@
       "Dhuhr": {
         "start": {
           "time": "04:51",
-          "clock": "PM",
+          "clock": "AM",
           "notification": true
         },
         "end": {
-          "time": "05:06",
+          "time": "01:15",
           "clock": "PM",
           "notification": true
         }
@@ -2576,7 +2576,7 @@
           "notification": true
         },
         "end": {
-          "time": "8:17",
+          "time": "08:17",
           "clock": "PM",
           "notification": true
         }
@@ -2600,7 +2600,7 @@
           "notification": true
         },
         "end": {
-          "time": "11:59",
+          "time": "08:00",
           "clock": "PM",
           "notification": true
         }
@@ -2622,11 +2622,11 @@
       "Dhuhr": {
         "start": {
           "time": "04:51",
-          "clock": "PM",
+          "clock": "AM",
           "notification": true
         },
         "end": {
-          "time": "05:06",
+          "time": "01:15",
           "clock": "PM",
           "notification": true
         }
@@ -2638,7 +2638,7 @@
           "notification": true
         },
         "end": {
-          "time": "8:17",
+          "time": "08:17",
           "clock": "PM",
           "notification": true
         }
@@ -2662,7 +2662,7 @@
           "notification": true
         },
         "end": {
-          "time": "11:59",
+          "time": "08:00",
           "clock": "PM",
           "notification": true
         }
@@ -2684,11 +2684,11 @@
       "Dhuhr": {
         "start": {
           "time": "04:51",
-          "clock": "PM",
+          "clock": "AM",
           "notification": true
         },
         "end": {
-          "time": "05:06",
+          "time": "01:15",
           "clock": "PM",
           "notification": true
         }
@@ -2700,7 +2700,7 @@
           "notification": true
         },
         "end": {
-          "time": "8:17",
+          "time": "08:17",
           "clock": "PM",
           "notification": true
         }
@@ -2724,7 +2724,7 @@
           "notification": true
         },
         "end": {
-          "time": "11:59",
+          "time": "08:00",
           "clock": "PM",
           "notification": true
         }
@@ -2746,11 +2746,11 @@
       "Dhuhr": {
         "start": {
           "time": "04:51",
-          "clock": "PM",
+          "clock": "AM",
           "notification": true
         },
         "end": {
-          "time": "05:06",
+          "time": "01:15",
           "clock": "PM",
           "notification": true
         }
@@ -2762,7 +2762,7 @@
           "notification": true
         },
         "end": {
-          "time": "8:17",
+          "time": "08:17",
           "clock": "PM",
           "notification": true
         }
@@ -2786,7 +2786,7 @@
           "notification": true
         },
         "end": {
-          "time": "11:59",
+          "time": "08:00",
           "clock": "PM",
           "notification": true
         }
@@ -2808,11 +2808,11 @@
       "Dhuhr": {
         "start": {
           "time": "04:51",
-          "clock": "PM",
+          "clock": "AM",
           "notification": true
         },
         "end": {
-          "time": "05:06",
+          "time": "01:15",
           "clock": "PM",
           "notification": true
         }
@@ -2824,7 +2824,7 @@
           "notification": true
         },
         "end": {
-          "time": "8:17",
+          "time": "08:17",
           "clock": "PM",
           "notification": true
         }
@@ -2848,7 +2848,7 @@
           "notification": true
         },
         "end": {
-          "time": "11:59",
+          "time": "08:00",
           "clock": "PM",
           "notification": true
         }
@@ -2870,11 +2870,11 @@
       "Dhuhr": {
         "start": {
           "time": "04:51",
-          "clock": "PM",
+          "clock": "AM",
           "notification": true
         },
         "end": {
-          "time": "05:06",
+          "time": "01:15",
           "clock": "PM",
           "notification": true
         }
@@ -2886,7 +2886,7 @@
           "notification": true
         },
         "end": {
-          "time": "8:17",
+          "time": "08:17",
           "clock": "PM",
           "notification": true
         }
@@ -2910,7 +2910,7 @@
           "notification": true
         },
         "end": {
-          "time": "11:59",
+          "time": "08:00",
           "clock": "PM",
           "notification": true
         }
@@ -2932,11 +2932,11 @@
       "Dhuhr": {
         "start": {
           "time": "04:51",
-          "clock": "PM",
+          "clock": "AM",
           "notification": true
         },
         "end": {
-          "time": "05:06",
+          "time": "01:15",
           "clock": "PM",
           "notification": true
         }
@@ -2948,7 +2948,7 @@
           "notification": true
         },
         "end": {
-          "time": "8:17",
+          "time": "08:17",
           "clock": "PM",
           "notification": true
         }
@@ -2972,7 +2972,7 @@
           "notification": true
         },
         "end": {
-          "time": "11:59",
+          "time": "08:00",
           "clock": "PM",
           "notification": true
         }
@@ -2981,60 +2981,60 @@
     "19": {
       "Fajr": {
         "start": {
-          "time": "09:57",
+          "time": "05:56",
           "clock": "AM",
           "notification": true
         },
         "end": {
-          "time": "10:12",
+          "time": "06:15",
           "clock": "AM",
           "notification": true
         }
       },
       "Dhuhr": {
         "start": {
-          "time": "04:51",
-          "clock": "PM",
+          "time": "12:42",
+          "clock": "AM",
           "notification": true
         },
         "end": {
-          "time": "05:06",
+          "time": "01:15",
           "clock": "PM",
           "notification": true
         }
       },
       "Asr": {
         "start": {
-          "time": "08:02",
+          "time": "03:42",
           "clock": "PM",
           "notification": true
         },
         "end": {
-          "time": "8:17",
+          "time": "04:45",
           "clock": "PM",
           "notification": true
         }
       },
       "Maghrib": {
         "start": {
-          "time": "10:32",
+          "time": "06:08",
           "clock": "PM",
           "notification": true
         },
         "end": {
-          "time": "10:47",
+          "time": "06:30",
           "clock": "PM",
           "notification": true
         }
       },
       "Isha": {
         "start": {
-          "time": "11:45",
+          "time": "07:24",
           "clock": "PM",
           "notification": true
         },
         "end": {
-          "time": "11:59",
+          "time": "08:00",
           "clock": "PM",
           "notification": true
         }
@@ -3043,60 +3043,60 @@
     "20": {
       "Fajr": {
         "start": {
-          "time": "09:57",
+          "time": "05:57",
           "clock": "AM",
           "notification": true
         },
         "end": {
-          "time": "10:12",
+          "time": "06:15",
           "clock": "AM",
           "notification": true
         }
       },
       "Dhuhr": {
         "start": {
-          "time": "04:51",
-          "clock": "PM",
+          "time": "12:41",
+          "clock": "AM",
           "notification": true
         },
         "end": {
-          "time": "05:06",
+          "time": "01:15",
           "clock": "PM",
           "notification": true
         }
       },
       "Asr": {
         "start": {
-          "time": "08:02",
+          "time": "03:41",
           "clock": "PM",
           "notification": true
         },
         "end": {
-          "time": "8:17",
+          "time": "04:45",
           "clock": "PM",
           "notification": true
         }
       },
       "Maghrib": {
         "start": {
-          "time": "10:32",
+          "time": "06:06",
           "clock": "PM",
           "notification": true
         },
         "end": {
-          "time": "10:47",
+          "time": "06:30",
           "clock": "PM",
           "notification": true
         }
       },
       "Isha": {
         "start": {
-          "time": "11:45",
+          "time": "07:22",
           "clock": "PM",
           "notification": true
         },
         "end": {
-          "time": "11:59",
+          "time": "08:00",
           "clock": "PM",
           "notification": true
         }
@@ -3105,60 +3105,60 @@
     "21": {
       "Fajr": {
         "start": {
-          "time": "09:57",
+          "time": "06:02",
           "clock": "AM",
           "notification": true
         },
         "end": {
-          "time": "10:12",
+          "time": "6:15",
           "clock": "AM",
           "notification": true
         }
       },
       "Dhuhr": {
         "start": {
-          "time": "04:51",
-          "clock": "PM",
+          "time": "12:41",
+          "clock": "AM",
           "notification": true
         },
         "end": {
-          "time": "05:06",
+          "time": "01:15",
           "clock": "PM",
           "notification": true
         }
       },
       "Asr": {
         "start": {
-          "time": "08:02",
+          "time": "03:40",
           "clock": "PM",
           "notification": true
         },
         "end": {
-          "time": "8:17",
+          "time": "04:45",
           "clock": "PM",
           "notification": true
         }
       },
       "Maghrib": {
         "start": {
-          "time": "10:32",
+          "time": "06:05",
           "clock": "PM",
           "notification": true
         },
         "end": {
-          "time": "10:47",
+          "time": "06:30",
           "clock": "PM",
           "notification": true
         }
       },
       "Isha": {
         "start": {
-          "time": "11:45",
+          "time": "07:21",
           "clock": "PM",
           "notification": true
         },
         "end": {
-          "time": "11:59",
+          "time": "08:00",
           "clock": "PM",
           "notification": true
         }
@@ -3172,55 +3172,55 @@
           "notification": true
         },
         "end": {
-          "time": "10:12",
+          "time": "6:15",
           "clock": "AM",
           "notification": true
         }
       },
       "Dhuhr": {
         "start": {
-          "time": "04:51",
-          "clock": "PM",
+          "time": "12:41",
+          "clock": "AM",
           "notification": true
         },
         "end": {
-          "time": "05:06",
+          "time": "01:15",
           "clock": "PM",
           "notification": true
         }
       },
       "Asr": {
         "start": {
-          "time": "08:02",
+          "time": "03:39",
           "clock": "PM",
           "notification": true
         },
         "end": {
-          "time": "8:17",
+          "time": "04:45",
           "clock": "PM",
           "notification": true
         }
       },
       "Maghrib": {
         "start": {
-          "time": "10:32",
+          "time": "06:04",
           "clock": "PM",
           "notification": true
         },
         "end": {
-          "time": "10:47",
+          "time": "06:30",
           "clock": "PM",
           "notification": true
         }
       },
       "Isha": {
         "start": {
-          "time": "11:45",
+          "time": "7:20",
           "clock": "PM",
           "notification": true
         },
         "end": {
-          "time": "11:59",
+          "time": "08:00",
           "clock": "PM",
           "notification": true
         }
@@ -3234,55 +3234,55 @@
           "notification": true
         },
         "end": {
-          "time": "10:12",
+          "time": "06:15",
           "clock": "AM",
           "notification": true
         }
       },
       "Dhuhr": {
         "start": {
-          "time": "04:51",
-          "clock": "PM",
+          "time": "12:41",
+          "clock": "AM",
           "notification": true
         },
         "end": {
-          "time": "05:06",
+          "time": "01:15",
           "clock": "PM",
           "notification": true
         }
       },
       "Asr": {
         "start": {
-          "time": "08:02",
+          "time": "03:38",
           "clock": "PM",
           "notification": true
         },
         "end": {
-          "time": "8:17",
+          "time": "04:45",
           "clock": "PM",
           "notification": true
         }
       },
       "Maghrib": {
         "start": {
-          "time": "10:32",
+          "time": "06:02",
           "clock": "PM",
           "notification": true
         },
         "end": {
-          "time": "10:47",
+          "time": "06:30",
           "clock": "PM",
           "notification": true
         }
       },
       "Isha": {
         "start": {
-          "time": "11:45",
+          "time": "07:18",
           "clock": "PM",
           "notification": true
         },
         "end": {
-          "time": "11:59",
+          "time": "08:00",
           "clock": "PM",
           "notification": true
         }
@@ -3296,55 +3296,55 @@
           "notification": true
         },
         "end": {
-          "time": "10:12",
+          "time": "06:15",
           "clock": "AM",
           "notification": true
         }
       },
       "Dhuhr": {
         "start": {
-          "time": "04:51",
-          "clock": "PM",
+          "time": "12:40",
+          "clock": "AM",
           "notification": true
         },
         "end": {
-          "time": "05:06",
+          "time": "01:15",
           "clock": "PM",
           "notification": true
         }
       },
       "Asr": {
         "start": {
-          "time": "08:02",
+          "time": "03:36",
           "clock": "PM",
           "notification": true
         },
         "end": {
-          "time": "8:17",
+          "time": "04:45",
           "clock": "PM",
           "notification": true
         }
       },
       "Maghrib": {
         "start": {
-          "time": "10:32",
+          "time": "06:01",
           "clock": "PM",
           "notification": true
         },
         "end": {
-          "time": "10:47",
+          "time": "06:30",
           "clock": "PM",
           "notification": true
         }
       },
       "Isha": {
         "start": {
-          "time": "11:45",
+          "time": "07:17",
           "clock": "PM",
           "notification": true
         },
         "end": {
-          "time": "11:59",
+          "time": "08:00",
           "clock": "PM",
           "notification": true
         }
@@ -3358,55 +3358,55 @@
           "notification": true
         },
         "end": {
-          "time": "10:12",
+          "time": "06:15",
           "clock": "AM",
           "notification": true
         }
       },
       "Dhuhr": {
         "start": {
-          "time": "04:51",
-          "clock": "PM",
+          "time": "12:39",
+          "clock": "AM",
           "notification": true
         },
         "end": {
-          "time": "05:06",
+          "time": "01:15",
           "clock": "PM",
           "notification": true
         }
       },
       "Asr": {
         "start": {
-          "time": "08:02",
+          "time": "03:35",
           "clock": "PM",
           "notification": true
         },
         "end": {
-          "time": "8:17",
+          "time": "04:45",
           "clock": "PM",
           "notification": true
         }
       },
       "Maghrib": {
         "start": {
-          "time": "10:32",
+          "time": "05:59",
           "clock": "PM",
           "notification": true
         },
         "end": {
-          "time": "10:47",
+          "time": "06:30",
           "clock": "PM",
           "notification": true
         }
       },
       "Isha": {
         "start": {
-          "time": "11:45",
+          "time": "07:16",
           "clock": "PM",
           "notification": true
         },
         "end": {
-          "time": "11:59",
+          "time": "08:00",
           "clock": "PM",
           "notification": true
         }
@@ -3420,55 +3420,55 @@
           "notification": true
         },
         "end": {
-          "time": "10:12",
+          "time": "06:15",
           "clock": "AM",
           "notification": true
         }
       },
       "Dhuhr": {
         "start": {
-          "time": "04:51",
-          "clock": "PM",
+          "time": "12:39",
+          "clock": "AM",
           "notification": true
         },
         "end": {
-          "time": "05:06",
+          "time": "01:15",
           "clock": "PM",
           "notification": true
         }
       },
       "Asr": {
         "start": {
-          "time": "08:02",
+          "time": "03:34",
           "clock": "PM",
           "notification": true
         },
         "end": {
-          "time": "8:17",
+          "time": "04:45",
           "clock": "PM",
           "notification": true
         }
       },
       "Maghrib": {
         "start": {
-          "time": "10:32",
+          "time": "05:58",
           "clock": "PM",
           "notification": true
         },
         "end": {
-          "time": "10:47",
+          "time": "06:30",
           "clock": "PM",
           "notification": true
         }
       },
       "Isha": {
         "start": {
-          "time": "11:45",
+          "time": "07:15",
           "clock": "PM",
           "notification": true
         },
         "end": {
-          "time": "11:59",
+          "time": "08:00",
           "clock": "PM",
           "notification": true
         }
@@ -3482,55 +3482,55 @@
           "notification": true
         },
         "end": {
-          "time": "10:12",
+          "time": "06:15",
           "clock": "AM",
           "notification": true
         }
       },
       "Dhuhr": {
         "start": {
-          "time": "04:51",
-          "clock": "PM",
+          "time": "12:39",
+          "clock": "AM",
           "notification": true
         },
         "end": {
-          "time": "05:06",
+          "time": "01:15",
           "clock": "PM",
           "notification": true
         }
       },
       "Asr": {
         "start": {
-          "time": "08:02",
+          "time": "03:33",
           "clock": "PM",
           "notification": true
         },
         "end": {
-          "time": "8:17",
+          "time": "04:45",
           "clock": "PM",
           "notification": true
         }
       },
       "Maghrib": {
         "start": {
-          "time": "10:32",
+          "time": "05:57",
           "clock": "PM",
           "notification": true
         },
         "end": {
-          "time": "10:47",
+          "time": "06:30",
           "clock": "PM",
           "notification": true
         }
       },
       "Isha": {
         "start": {
-          "time": "11:45",
+          "time": "07:13",
           "clock": "PM",
           "notification": true
         },
         "end": {
-          "time": "11:59",
+          "time": "08:00",
           "clock": "PM",
           "notification": true
         }
@@ -3544,55 +3544,55 @@
           "notification": true
         },
         "end": {
-          "time": "10:12",
+          "time": "06:15",
           "clock": "AM",
           "notification": true
         }
       },
       "Dhuhr": {
         "start": {
-          "time": "04:51",
-          "clock": "PM",
+          "time": "12:39",
+          "clock": "AM",
           "notification": true
         },
         "end": {
-          "time": "05:06",
+          "time": "01:15",
           "clock": "PM",
           "notification": true
         }
       },
       "Asr": {
         "start": {
-          "time": "08:02",
+          "time": "03:32",
           "clock": "PM",
           "notification": true
         },
         "end": {
-          "time": "8:17",
+          "time": "04:45",
           "clock": "PM",
           "notification": true
         }
       },
       "Maghrib": {
         "start": {
-          "time": "10:32",
+          "time": "05:55",
           "clock": "PM",
           "notification": true
         },
         "end": {
-          "time": "10:47",
+          "time": "06:30",
           "clock": "PM",
           "notification": true
         }
       },
       "Isha": {
         "start": {
-          "time": "11:45",
+          "time": "07:12",
           "clock": "PM",
           "notification": true
         },
         "end": {
-          "time": "11:59",
+          "time": "08:00",
           "clock": "PM",
           "notification": true
         }
@@ -3606,55 +3606,55 @@
           "notification": true
         },
         "end": {
-          "time": "10:12",
+          "time": "06:15",
           "clock": "AM",
           "notification": true
         }
       },
       "Dhuhr": {
         "start": {
-          "time": "04:51",
-          "clock": "PM",
+          "time": "12:39",
+          "clock": "AM",
           "notification": true
         },
         "end": {
-          "time": "05:06",
+          "time": "01:15",
           "clock": "PM",
           "notification": true
         }
       },
       "Asr": {
         "start": {
-          "time": "08:02",
+          "time": "03:31",
           "clock": "PM",
           "notification": true
         },
         "end": {
-          "time": "8:17",
+          "time": "04:45",
           "clock": "PM",
           "notification": true
         }
       },
       "Maghrib": {
         "start": {
-          "time": "10:32",
+          "time": "05:54",
           "clock": "PM",
           "notification": true
         },
         "end": {
-          "time": "10:47",
+          "time": "06:30",
           "clock": "PM",
           "notification": true
         }
       },
       "Isha": {
         "start": {
-          "time": "11:45",
+          "time": "07:11",
           "clock": "PM",
           "notification": true
         },
         "end": {
-          "time": "11:59",
+          "time": "08:00",
           "clock": "PM",
           "notification": true
         }
@@ -3668,55 +3668,55 @@
           "notification": true
         },
         "end": {
-          "time": "10:12",
+          "time": "06:15",
           "clock": "AM",
           "notification": true
         }
       },
       "Dhuhr": {
         "start": {
-          "time": "04:51",
-          "clock": "PM",
+          "time": "12:39",
+          "clock": "AM",
           "notification": true
         },
         "end": {
-          "time": "05:06",
+          "time": "01:15",
           "clock": "PM",
           "notification": true
         }
       },
       "Asr": {
         "start": {
-          "time": "08:02",
+          "time": "03:30",
           "clock": "PM",
           "notification": true
         },
         "end": {
-          "time": "8:17",
+          "time": "04:45",
           "clock": "PM",
           "notification": true
         }
       },
       "Maghrib": {
         "start": {
-          "time": "10:32",
+          "time": "05:53",
           "clock": "PM",
           "notification": true
         },
         "end": {
-          "time": "10:47",
+          "time": "06:30",
           "clock": "PM",
           "notification": true
         }
       },
       "Isha": {
         "start": {
-          "time": "11:45",
+          "time": "07:10",
           "clock": "PM",
           "notification": true
         },
         "end": {
-          "time": "11:59",
+          "time": "08:00",
           "clock": "PM",
           "notification": true
         }
@@ -3730,55 +3730,55 @@
           "notification": true
         },
         "end": {
-          "time": "10:12",
+          "time": "06:15",
           "clock": "AM",
           "notification": true
         }
       },
       "Dhuhr": {
         "start": {
-          "time": "04:51",
-          "clock": "PM",
+          "time": "12:39",
+          "clock": "AM",
           "notification": true
         },
         "end": {
-          "time": "05:06",
+          "time": "01:15",
           "clock": "PM",
           "notification": true
         }
       },
       "Asr": {
         "start": {
-          "time": "08:02",
+          "time": "03:29",
           "clock": "PM",
           "notification": true
         },
         "end": {
-          "time": "8:17",
+          "time": "04:45",
           "clock": "PM",
           "notification": true
         }
       },
       "Maghrib": {
         "start": {
-          "time": "10:32",
+          "time": "05:52",
           "clock": "PM",
           "notification": true
         },
         "end": {
-          "time": "10:47",
+          "time": "06:30",
           "clock": "PM",
           "notification": true
         }
       },
       "Isha": {
         "start": {
-          "time": "11:45",
+          "time": "07:09",
           "clock": "PM",
           "notification": true
         },
         "end": {
-          "time": "11:59",
+          "time": "08:00",
           "clock": "PM",
           "notification": true
         }
