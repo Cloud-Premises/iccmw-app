@@ -100,6 +100,104 @@
           }
         }
       ]
+    },
+    {
+      "id": 3,
+      "title": "ICCMW WeekDay Maktab Program",
+      "description": "",
+      "data": [
+        {
+          "heading": "",
+          "desciption:": [
+            "Boys & Girls Aged 5 & Up",
+            "would you like your child to study the basics of Islam in a caring fun & safe environment?",
+            "Choose ICCMW"
+          ],
+          "list": [
+            "Experienced Teachers",
+            "Engaging Lessons",
+            "Structured Syllabus"
+          ],
+          "image": "",
+          "table": {},
+          "images": [],
+          "link": "",
+          "links": "",
+          "form": {
+            "title": "",
+            "submit": "",
+            "feilds": []
+          }
+        },
+        {
+          "heading": "",
+          "desciption:": [
+            "Boys & Girls Aged 5 & Up",
+            "would you like your child to study the basics of Islam in a caring fun & safe environment?",
+            "Choose ICCMW"
+          ],
+          "list": [
+            "Experienced Teachers",
+            "Engaging Lessons",
+            "Structured Syllabus"
+          ],
+          "image": "",
+          "table": {},
+          "images": [],
+          "link": "",
+          "links": "",
+          "form": {
+            "title": "",
+            "submit": "",
+            "feilds": []
+          }
+        },
+        {
+          "heading": "Subjects",
+          "desciption:": [
+            ""
+          ],
+          "list": [
+            "Qur'an ",
+            "Tajweed",
+            "Aqa'id",
+            "Fiqh",
+            "Seerah",
+            "Du'as",
+            "Surahs",
+            "Akhlaq/Adab"
+          ],
+          "image": "",
+          "table": {},
+          "images": [],
+          "link": "",
+          "links": "",
+          "form": {
+            "title": "",
+            "submit": "",
+            "feilds": []
+          }
+        },
+        {
+          "heading": "Subjects",
+          "desciption:": [
+            "ICCMW ",
+            "2 Grandview Blvd",
+            "Yonkers, NY 10710"
+          ],
+          "list": [],
+          "image": "",
+          "table": {},
+          "images": [],
+          "link": "",
+          "links": "",
+          "form": {
+            "title": "",
+            "submit": "",
+            "feilds": []
+          }
+        }
+      ]
     }
   ]
 }
