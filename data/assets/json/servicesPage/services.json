@@ -114,7 +114,7 @@
             "Choose ICCMW"
           ],
           "list": [
-            "Experienced Teachers",
+            "Experienced Teacher",
             "Engaging Lessons",
             "Structured Syllabus"
           ],
@@ -163,6 +163,93 @@
             "Yonkers, NY 10710"
           ],
           "list": [],
+          "image": "",
+          "table": {},
+          "images": [],
+          "link": "",
+          "links": "",
+          "form": {
+            "title": "",
+            "submit": "",
+            "feilds": []
+          }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Saturday Quran Tafseer in Urdu",
+      "description": "Topic: Quran Tafseer in Urdu",
+      "data": [
+        {
+          "heading": "Saturday Quran Tafseer in Urdu",
+          "desciption:": [
+          ""          
+        ],
+          "list": [
+            "Time: Oct 5, 2024 ",
+            "10:00 pm India Time",
+            "12:30 PM Eastern Time (US and Canada)",
+            "Every week on Saturday"
+          ],
+          "image": "",
+          "table": {},
+          "images": [],
+          "link": "",
+          "links": "",
+          "form": {
+            "title": "",
+            "submit": "",
+            "feilds": []
+          }
+        },
+        {
+          "heading": "",
+          "desciption:": [
+          ""          
+        ],
+          "list": [
+            "Weekly:"
+          ],
+          "image": "",
+          "table": {},
+          "images": [],
+          "link": "https://us02web.zoom.us/meeting/tZEvce2hrTMiGNXir5oybwiA14P1qxMXzC_M/ics?icsToken=98tyKuGtrD0uE9eduBuGRpwMAI_oLPPztlxHjY1llQ2wDDlRdQrXZ7ZyY6NnPeDK&meetingMasterEventId=aZyzQxhgR0anw4C9GV2f4A",
+          "links": "",
+          "form": {
+            "title": "",
+            "submit": "",
+            "feilds": []
+          }
+        },
+        {
+          "heading": "",
+          "desciption:": [
+          ""          
+        ],
+          "list": [
+            "Join Zoom Meeting"
+          ],
+          "image": "",
+          "table": {},
+          "images": [],
+          "link": "https://us02web.zoom.us/j/85264938821?pwd=LfrD17bWrfzy7ThHmjiM4sbsbooCB3.1",
+          "links": "",
+          "form": {
+            "title": "",
+            "submit": "",
+            "feilds": []
+          }
+        },
+        {
+          "heading": "",
+          "desciption:": [
+          ""          
+        ],
+          "list": [
+            "Meeting ID: 852 6493 8821",
+            "Passcode: 05102024"
+          ],
           "image": "",
           "table": {},
           "images": [],
