@@ -162,6 +162,17 @@
                 "https://raw.githubusercontent.com/Cloud-Premises/iccmw-app/refs/heads/main/assets/images/events/ICCMW%20EarthQuake%20Relief/image%20(8).png",
                 "https://raw.githubusercontent.com/Cloud-Premises/iccmw-app/refs/heads/main/assets/images/events/ICCMW%20EarthQuake%20Relief/image%20(9).png"
             ]
+        },
+        {
+            "title": "ICCMW Weekday Maktab Program",
+            "date": {
+                "month": "October",
+                "day": 20,
+                "year": 2024
+            },
+            "images": [
+                "https://raw.githubusercontent.com/Cloud-Premises/iccmw-app/refs/heads/main/assets/images/events/ICCMW%20EarthQuake%20Relief/image%20(1).png"
+              ]
         }
     ]
 }
