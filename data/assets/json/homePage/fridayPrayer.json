@@ -2,24 +2,120 @@
   "fridayPrayer": [
     {
       "title": "Church Hall",
-      "khudba": "01:00 PM",
-      "Salah": "01:30 PM",
+      "khatba": "01:00 PM",
+      "Salah": "01:25 PM",
       "prayerType": "First Prayer",
       "date": {
-        "month": "October",
-        "day": 25,
+        "month": "November",
+        "day": 1,
         "year": 2024
       },
       "address": "100 Underhill Street Yonkers NY 10710"
     },
     {
       "title": "ICCMW Masjid",
-      "khudba": "02:00 PM",
-      "Salah": "02:30 PM",
+      "khatba": "02:00 PM",
+      "Salah": "02:25 PM",
       "prayerType": "Second Prayer",
       "date": {
-        "month": "October",
-        "day": 25,
+        "month": "November",
+        "day": 1,
+        "year": 2024
+      },
+      "address": "2 Grandview Blvd Yonkers, NY 10710"
+    },
+    {
+      "title": "Church Hall",
+      "khatba": "01:00 PM",
+      "Salah": "01:25 PM",
+      "prayerType": "First Prayer",
+      "date": {
+        "month": "November",
+        "day": 8,
+        "year": 2024
+      },
+      "address": "100 Underhill Street Yonkers NY 10710"
+    },
+    {
+      "title": "ICCMW Masjid",
+      "khatba": "02:00 PM",
+      "Salah": "02:25 PM",
+      "prayerType": "Second Prayer",
+      "date": {
+        "month": "November",
+        "day": 8,
+        "year": 2024
+      },
+      "address": "2 Grandview Blvd Yonkers, NY 10710"
+    },
+    {
+      "title": "Church Hall",
+      "khatba": "01:00 PM",
+      "Salah": "01:25 PM",
+      "prayerType": "First Prayer",
+      "date": {
+        "month": "November",
+        "day": 15,
+        "year": 2024
+      },
+      "address": "100 Underhill Street Yonkers NY 10710"
+    },
+    {
+      "title": "ICCMW Masjid",
+      "khatba": "02:00 PM",
+      "Salah": "02:25 PM",
+      "prayerType": "Second Prayer",
+      "date": {
+        "month": "November",
+        "day": 15,
+        "year": 2024
+      },
+      "address": "2 Grandview Blvd Yonkers, NY 10710"
+    },
+    {
+      "title": "Church Hall",
+      "khatba": "01:00 PM",
+      "Salah": "01:25 PM",
+      "prayerType": "First Prayer",
+      "date": {
+        "month": "November",
+        "day": 22,
+        "year": 2024
+      },
+      "address": "100 Underhill Street Yonkers NY 10710"
+    },
+    {
+      "title": "ICCMW Masjid",
+      "khatba": "02:00 PM",
+      "Salah": "02:25 PM",
+      "prayerType": "Second Prayer",
+      "date": {
+        "month": "November",
+        "day": 22,
+        "year": 2024
+      },
+      "address": "2 Grandview Blvd Yonkers, NY 10710"
+    },
+    {
+      "title": "Church Hall",
+      "khatba": "01:00 PM",
+      "Salah": "01:25 PM",
+      "prayerType": "First Prayer",
+      "date": {
+        "month": "November",
+        "day": 29,
+        "year": 2024
+      },
+      "address": "100 Underhill Street Yonkers NY 10710"
+    },
+    {
+      "title": "ICCMW Masjid",
+      "khatba": "02:00 PM",
+      "Salah": "02:25 PM",
+      "prayerType": "Second Prayer",
+      "date": {
+        "month": "November",
+        "day": 29,
         "year": 2024
       },
       "address": "2 Grandview Blvd Yonkers, NY 10710"
