@@ -18,7 +18,7 @@
             "data": {}
           },
           "images": [],
-          "links": "",
+          "links": [],
           "form": {
             "title": "",
             "submit": "",
@@ -38,7 +38,7 @@
             "data": {}
           },
           "images": [],
-          "links": "",
+          "links": [],
           "form": {
             "title": "",
             "submit": "",
@@ -89,7 +89,7 @@
           "image": "",
           "table": {},
           "images": [],
-          "links": "",
+          "links": [],
           "form": {
             "title": "",
             "submit": "",
@@ -118,7 +118,7 @@
           "image": "",
           "table": {},
           "images": [],
-          "links": "",
+          "links": [],
           "form": {
             "title": "",
             "submit": "",
@@ -143,7 +143,7 @@
           "image": "",
           "table": {},
           "images": [],
-          "links": "",
+          "links": [],
           "form": {
             "title": "",
             "submit": "",
@@ -161,7 +161,12 @@
           "image": "",
           "table": {},
           "images": [],
-          "links": "",
+          "links": [
+            {
+              "title": "Islamic Community Center of Mid Westchester - Maktab Class of 2024-25 Registration Form",
+              "link": "https://docs.google.com/forms/d/e/1FAIpQLScL5qvO-fLswADdrM0ACmu0c_ghIKO648xhpdHCDjM_NVSdGA/viewform"
+            }
+          ],
           "form": {
             "title": "",
             "submit": "",
@@ -178,8 +183,8 @@
         {
           "heading": "",
           "desciption:": [
-          ""          
-        ],
+            ""
+          ],
           "list": [
             "Time: Oct 5, 2024 ",
             "10:00 pm India Time",
@@ -189,7 +194,7 @@
           "image": "",
           "table": {},
           "images": [],
-          "links": "",
+          "links": [],
           "form": {
             "title": "",
             "submit": "",
@@ -199,8 +204,8 @@
         {
           "heading": "",
           "desciption:": [
-          ""          
-        ],
+            ""
+          ],
           "list": [],
           "image": "",
           "table": {},
@@ -224,8 +229,8 @@
         {
           "heading": "Zoom Meeting Details",
           "desciption:": [
-          ""          
-        ],
+            ""
+          ],
           "list": [
             "Meeting ID: 852 6493 8821",
             "Passcode: 05102024"
@@ -233,7 +238,7 @@
           "image": "",
           "table": {},
           "images": [],
-          "links": "",
+          "links": [],
           "form": {
             "title": "",
             "submit": "",
