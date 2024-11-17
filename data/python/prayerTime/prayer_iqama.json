@@ -1,0 +1,32 @@
+{
+    "November": {
+        "1_to_2": {
+            "Fajr_Iqama": "6:15 AM",
+            "Duhr_Iqama": "1:15 PM",
+            "Asr_Iqama": "4:15 PM",
+            "Magrib_Iqama": "5 mins after Sunset",
+            "Isha_Iqama": "8:00 PM"
+        },
+        "3_to_10": {
+            "Fajr_Iqama": "5:45 AM",
+            "Duhr_Iqama": "1:15 PM",
+            "Asr_Iqama": "3:15 PM",
+            "Magrib_Iqama": "5 mins after Sunset",
+            "Isha_Iqama": "8:00 PM"
+        },
+        "11_to_20": {
+            "Fajr_Iqama": "5:45 AM",
+            "Duhr_Iqama": "1:15 PM",
+            "Asr_Iqama": "3:15 PM",
+            "Magrib_Iqama": "5 mins after Sunset",
+            "Isha_Iqama": "8:00 PM"
+        },
+        "21_to_30": {
+            "Fajr_Iqama": "6:00 AM",
+            "Duhr_Iqama": "1:15 PM",
+            "Asr_Iqama": "3:00 PM",
+            "Magrib_Iqama": "5 mins after Sunset",
+            "Isha_Iqama": "8:00 PM"
+        }
+    }
+}

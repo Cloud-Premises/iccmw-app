@@ -1,0 +1,302 @@
+[
+    {
+        "Date": "2024-11-01",
+        "Rise": "07:27 AM",
+        "Set": "05:51 PM",
+        "DayLength": "10:24:40",
+        "DayLengthDiff": "-00:02:22",
+        "Meridian": "12:39:35",
+        "Altitude": 34.6,
+        "Distance": 148459000
+    },
+    {
+        "Date": "2024-11-02",
+        "Rise": "07:28 AM",
+        "Set": "05:50 PM",
+        "DayLength": "10:22:19",
+        "DayLengthDiff": "-00:02:21",
+        "Meridian": "12:39:35",
+        "Altitude": 34.3,
+        "Distance": 148420000
+    },
+    {
+        "Date": "2024-11-03",
+        "Rise": "06:29 AM",
+        "Set": "04:49 PM",
+        "DayLength": "10:19:59",
+        "DayLengthDiff": "-00:02:20",
+        "Meridian": "11:39:35",
+        "Altitude": 34.0,
+        "Distance": 148382000
+    },
+    {
+        "Date": "2024-11-04",
+        "Rise": "06:30 AM",
+        "Set": "04:48 PM",
+        "DayLength": "10:17:40",
+        "DayLengthDiff": "-00:02:19",
+        "Meridian": "11:39:36",
+        "Altitude": 33.6,
+        "Distance": 148344000
+    },
+    {
+        "Date": "2024-11-05",
+        "Rise": "06:31 AM",
+        "Set": "04:47 PM",
+        "DayLength": "10:15:23",
+        "DayLengthDiff": "-00:02:17",
+        "Meridian": "11:39:38",
+        "Altitude": 33.3,
+        "Distance": 148306000
+    },
+    {
+        "Date": "2024-11-06",
+        "Rise": "06:32 AM",
+        "Set": "04:46 PM",
+        "DayLength": "10:13:08",
+        "DayLengthDiff": "-00:02:15",
+        "Meridian": "11:39:41",
+        "Altitude": 33.0,
+        "Distance": 148268000
+    },
+    {
+        "Date": "2024-11-07",
+        "Rise": "06:34 AM",
+        "Set": "04:44 PM",
+        "DayLength": "10:10:54",
+        "DayLengthDiff": "-00:02:14",
+        "Meridian": "11:39:45",
+        "Altitude": 32.8,
+        "Distance": 148231000
+    },
+    {
+        "Date": "2024-11-08",
+        "Rise": "06:35 AM",
+        "Set": "04:43 PM",
+        "DayLength": "10:08:42",
+        "DayLengthDiff": "-00:02:12",
+        "Meridian": "11:39:49",
+        "Altitude": 32.5,
+        "Distance": 148194000
+    },
+    {
+        "Date": "2024-11-09",
+        "Rise": "06:36 AM",
+        "Set": "04:42 PM",
+        "DayLength": "10:06:31",
+        "DayLengthDiff": "-00:02:11",
+        "Meridian": "11:39:54",
+        "Altitude": 32.2,
+        "Distance": 148157000
+    },
+    {
+        "Date": "2024-11-10",
+        "Rise": "06:37 AM",
+        "Set": "04:41 PM",
+        "DayLength": "10:04:22",
+        "DayLengthDiff": "-00:02:09",
+        "Meridian": "11:40:00",
+        "Altitude": 31.9,
+        "Distance": 148121000
+    },
+    {
+        "Date": "2024-11-11",
+        "Rise": "06:38 AM",
+        "Set": "04:41 PM",
+        "DayLength": "10:02:15",
+        "DayLengthDiff": "-00:02:07",
+        "Meridian": "11:40:07",
+        "Altitude": 31.6,
+        "Distance": 148085000
+    },
+    {
+        "Date": "2024-11-12",
+        "Rise": "06:39 AM",
+        "Set": "04:40 PM",
+        "DayLength": "10:00:09",
+        "DayLengthDiff": "-00:02:06",
+        "Meridian": "11:40:15",
+        "Altitude": 31.4,
+        "Distance": 148050000
+    },
+    {
+        "Date": "2024-11-13",
+        "Rise": "06:41 AM",
+        "Set": "04:39 PM",
+        "DayLength": "09:58:06",
+        "DayLengthDiff": "-00:02:03",
+        "Meridian": "11:40:24",
+        "Altitude": 31.1,
+        "Distance": 148015000
+    },
+    {
+        "Date": "2024-11-14",
+        "Rise": "06:42 AM",
+        "Set": "04:38 PM",
+        "DayLength": "09:56:05",
+        "DayLengthDiff": "-00:02:01",
+        "Meridian": "11:40:33",
+        "Altitude": 30.8,
+        "Distance": 147982000
+    },
+    {
+        "Date": "2024-11-15",
+        "Rise": "06:43 AM",
+        "Set": "04:37 PM",
+        "DayLength": "09:54:05",
+        "DayLengthDiff": "-00:02:00",
+        "Meridian": "11:40:43",
+        "Altitude": 30.6,
+        "Distance": 147948000
+    },
+    {
+        "Date": "2024-11-16",
+        "Rise": "06:44 AM",
+        "Set": "04:36 PM",
+        "DayLength": "09:52:08",
+        "DayLengthDiff": "-00:01:57",
+        "Meridian": "11:40:55",
+        "Altitude": 30.3,
+        "Distance": 147916000
+    },
+    {
+        "Date": "2024-11-17",
+        "Rise": "06:45 AM",
+        "Set": "04:36 PM",
+        "DayLength": "09:50:13",
+        "DayLengthDiff": "-00:01:55",
+        "Meridian": "11:41:07",
+        "Altitude": 30.1,
+        "Distance": 147884000
+    },
+    {
+        "Date": "2024-11-18",
+        "Rise": "06:46 AM",
+        "Set": "04:35 PM",
+        "DayLength": "09:48:20",
+        "DayLengthDiff": "-00:01:53",
+        "Meridian": "11:41:19",
+        "Altitude": 29.9,
+        "Distance": 147853000
+    },
+    {
+        "Date": "2024-11-19",
+        "Rise": "06:48 AM",
+        "Set": "04:34 PM",
+        "DayLength": "09:46:30",
+        "DayLengthDiff": "-00:01:50",
+        "Meridian": "11:41:33",
+        "Altitude": 29.6,
+        "Distance": 147823000
+    },
+    {
+        "Date": "2024-11-20",
+        "Rise": "06:49 AM",
+        "Set": "04:33 PM",
+        "DayLength": "09:44:42",
+        "DayLengthDiff": "-00:01:48",
+        "Meridian": "11:41:47",
+        "Altitude": 29.4,
+        "Distance": 147793000
+    },
+    {
+        "Date": "2024-11-21",
+        "Rise": "06:50 AM",
+        "Set": "04:33 PM",
+        "DayLength": "09:42:57",
+        "DayLengthDiff": "-00:01:45",
+        "Meridian": "11:42:03",
+        "Altitude": 29.2,
+        "Distance": 147764000
+    },
+    {
+        "Date": "2024-11-22",
+        "Rise": "06:51 AM",
+        "Set": "04:32 PM",
+        "DayLength": "09:41:14",
+        "DayLengthDiff": "-00:01:43",
+        "Meridian": "11:42:19",
+        "Altitude": 29.0,
+        "Distance": 147736000
+    },
+    {
+        "Date": "2024-11-23",
+        "Rise": "06:52 AM",
+        "Set": "04:32 PM",
+        "DayLength": "09:39:34",
+        "DayLengthDiff": "-00:01:40",
+        "Meridian": "11:42:36",
+        "Altitude": 28.8,
+        "Distance": 147708000
+    },
+    {
+        "Date": "2024-11-24",
+        "Rise": "06:53 AM",
+        "Set": "04:31 PM",
+        "DayLength": "09:37:56",
+        "DayLengthDiff": "-00:01:38",
+        "Meridian": "11:42:53",
+        "Altitude": 28.6,
+        "Distance": 147681000
+    },
+    {
+        "Date": "2024-11-25",
+        "Rise": "06:54 AM",
+        "Set": "04:31 PM",
+        "DayLength": "09:36:21",
+        "DayLengthDiff": "-00:01:35",
+        "Meridian": "11:43:12",
+        "Altitude": 28.4,
+        "Distance": 147654000
+    },
+    {
+        "Date": "2024-11-26",
+        "Rise": "06:55 AM",
+        "Set": "04:30 PM",
+        "DayLength": "09:34:50",
+        "DayLengthDiff": "-00:01:31",
+        "Meridian": "11:43:31",
+        "Altitude": 28.2,
+        "Distance": 147628000
+    },
+    {
+        "Date": "2024-11-27",
+        "Rise": "06:57 AM",
+        "Set": "04:30 PM",
+        "DayLength": "09:33:21",
+        "DayLengthDiff": "-00:01:29",
+        "Meridian": "11:43:51",
+        "Altitude": 28.0,
+        "Distance": 147602000
+    },
+    {
+        "Date": "2024-11-28",
+        "Rise": "06:58 AM",
+        "Set": "04:30 PM",
+        "DayLength": "09:31:55",
+        "DayLengthDiff": "-00:01:26",
+        "Meridian": "11:44:12",
+        "Altitude": 27.9,
+        "Distance": 147577000
+    },
+    {
+        "Date": "2024-11-29",
+        "Rise": "06:59 AM",
+        "Set": "04:29 PM",
+        "DayLength": "09:30:32",
+        "DayLengthDiff": "-00:01:23",
+        "Meridian": "11:44:33",
+        "Altitude": 27.7,
+        "Distance": 147552000
+    },
+    {
+        "Date": "2024-11-30",
+        "Rise": "07:00 AM",
+        "Set": "04:29 PM",
+        "DayLength": "09:29:12",
+        "DayLengthDiff": "-00:01:20",
+        "Meridian": "11:44:55",
+        "Altitude": 27.5,
+        "Distance": 147528000
+    }
+]
