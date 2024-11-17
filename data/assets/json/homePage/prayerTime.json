@@ -32,8 +32,8 @@
                   "notification": true
               },
               "Iqamah": {
-                  "time": "",
-                  "clock": "",
+                  "time": "04:15",
+                  "clock": "PM",
                   "notification": false
               }
           },
