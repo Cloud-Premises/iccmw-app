@@ -6,8 +6,8 @@
       "Salah": "12:55 PM",
       "prayerType": "First Prayer",
       "date": {
-        "month": "November",
-        "day": 1,
+        "month": "December",
+        "day": 6,
         "year": 2024
       },
       "address": "100 Underhill Street Yonkers NY 10710"
@@ -18,8 +18,8 @@
       "Salah": "01:55 PM",
       "prayerType": "Second Prayer",
       "date": {
-        "month": "November",
-        "day": 1,
+        "month": "December",
+        "day": 6,
         "year": 2024
       },
       "address": "2 Grandview Blvd Yonkers, NY 10710"
@@ -30,8 +30,8 @@
       "Salah": "12:55 PM",
       "prayerType": "First Prayer",
       "date": {
-        "month": "November",
-        "day": 8,
+        "month": "December",
+        "day": 13,
         "year": 2024
       },
       "address": "100 Underhill Street Yonkers NY 10710"
@@ -42,8 +42,8 @@
       "Salah": "01:55 PM",
       "prayerType": "Second Prayer",
       "date": {
-        "month": "November",
-        "day": 8,
+        "month": "December",
+        "day": 13,
         "year": 2024
       },
       "address": "2 Grandview Blvd Yonkers, NY 10710"
@@ -54,8 +54,8 @@
       "Salah": "12:55 PM",
       "prayerType": "First Prayer",
       "date": {
-        "month": "November",
-        "day": 15,
+        "month": "December",
+        "day": 20,
         "year": 2024
       },
       "address": "100 Underhill Street Yonkers NY 10710"
@@ -66,8 +66,8 @@
       "Salah": "01:55 PM",
       "prayerType": "Second Prayer",
       "date": {
-        "month": "November",
-        "day": 15,
+        "month": "December",
+        "day": 20,
         "year": 2024
       },
       "address": "2 Grandview Blvd Yonkers, NY 10710"
@@ -78,8 +78,8 @@
       "Salah": "12:55 PM",
       "prayerType": "First Prayer",
       "date": {
-        "month": "November",
-        "day": 22,
+        "month": "December",
+        "day": 27,
         "year": 2024
       },
       "address": "100 Underhill Street Yonkers NY 10710"
@@ -90,35 +90,12 @@
       "Salah": "01:55 PM",
       "prayerType": "Second Prayer",
       "date": {
-        "month": "November",
-        "day": 22,
-        "year": 2024
-      },
-      "address": "2 Grandview Blvd Yonkers, NY 10710"
-    },
-    {
-      "title": "Church Hall",
-      "khatba": "12:30 PM",
-      "Salah": "12:55 PM",
-      "prayerType": "First Prayer",
-      "date": {
-        "month": "November",
-        "day": 29,
-        "year": 2024
-      },
-      "address": "100 Underhill Street Yonkers NY 10710"
-    },
-    {
-      "title": "ICCMW Masjid",
-      "khatba": "01:30 PM",
-      "Salah": "01:55 PM",
-      "prayerType": "Second Prayer",
-      "date": {
-        "month": "November",
-        "day": 29,
+        "month": "December",
+        "day": 27,
         "year": 2024
       },
       "address": "2 Grandview Blvd Yonkers, NY 10710"
     }
+ 
   ]
 }
