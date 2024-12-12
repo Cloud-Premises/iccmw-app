@@ -10,7 +10,8 @@
         "day": 6,
         "year": 2024
       },
-      "address": "100 Underhill Street Yonkers NY 10710"
+      "address": "100 Underhill Street Yonkers NY 10710",
+      "khateeb": "Dr. Muhammad Ockeh "
     },
     {
       "title": "ICCMW Masjid",
@@ -22,7 +23,8 @@
         "day": 6,
         "year": 2024
       },
-      "address": "2 Grandview Blvd Yonkers, NY 10710"
+      "address": "2 Grandview Blvd Yonkers, NY 10710",
+      "khateeb": "Sh. Omar Ockeh"
     },
     {
       "title": "Church Hall",
@@ -34,7 +36,8 @@
         "day": 13,
         "year": 2024
       },
-      "address": "100 Underhill Street Yonkers NY 10710"
+      "address": "100 Underhill Street Yonkers NY 10710",
+      "khateeb": "Imam Masroor"
     },
     {
       "title": "ICCMW Masjid",
@@ -46,7 +49,8 @@
         "day": 13,
         "year": 2024
       },
-      "address": "2 Grandview Blvd Yonkers, NY 10710"
+      "address": "2 Grandview Blvd Yonkers, NY 10710",
+      "khateeb": "Br. Musa Ockeh"
     },
     {
       "title": "Church Hall",
@@ -58,7 +62,8 @@
         "day": 20,
         "year": 2024
       },
-      "address": "100 Underhill Street Yonkers NY 10710"
+      "address": "100 Underhill Street Yonkers NY 10710",
+      "khateeb": "Sh. Omar Ahmed"
     },
     {
       "title": "ICCMW Masjid",
@@ -70,7 +75,8 @@
         "day": 20,
         "year": 2024
       },
-      "address": "2 Grandview Blvd Yonkers, NY 10710"
+      "address": "2 Grandview Blvd Yonkers, NY 10710",
+      "khateeb": "Dr. Mohmad Ockeh"
     },
     {
       "title": "Church Hall",
@@ -82,7 +88,8 @@
         "day": 27,
         "year": 2024
       },
-      "address": "100 Underhill Street Yonkers NY 10710"
+      "address": "100 Underhill Street Yonkers NY 10710",
+      "khateeb": "Dr. Imam Shafique"
     },
     {
       "title": "ICCMW Masjid",
@@ -94,8 +101,8 @@
         "day": 27,
         "year": 2024
       },
-      "address": "2 Grandview Blvd Yonkers, NY 10710"
+      "address": "2 Grandview Blvd Yonkers, NY 10710",
+      "khateeb": "Br. Musa Ockeh"
     }
- 
   ]
 }
