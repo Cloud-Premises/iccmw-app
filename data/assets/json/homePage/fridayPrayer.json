@@ -2,7 +2,7 @@
   "fridayPrayer": [
     {
       "title": "Church Hall",
-      "Khutba": "12:30 PM",
+      "khatba": "12:30 PM",
       "Salah": "12:55 PM",
       "prayerType": "First Prayer",
       "date": {
@@ -15,7 +15,7 @@
     },
     {
       "title": "ICCMW Masjid",
-      "Khutba": "01:30 PM",
+      "khatba": "01:30 PM",
       "Salah": "01:55 PM",
       "prayerType": "Second Prayer",
       "date": {
@@ -28,7 +28,7 @@
     },
     {
       "title": "Church Hall",
-      "Khutba": "12:30 PM",
+      "khatba": "12:30 PM",
       "Salah": "12:55 PM",
       "prayerType": "First Prayer",
       "date": {
@@ -41,7 +41,7 @@
     },
     {
       "title": "ICCMW Masjid",
-      "Khutba": "01:30 PM",
+      "khatba": "01:30 PM",
       "Salah": "01:55 PM",
       "prayerType": "Second Prayer",
       "date": {
@@ -54,7 +54,7 @@
     },
     {
       "title": "Church Hall",
-      "Khutba": "12:30 PM",
+      "khatba": "12:30 PM",
       "Salah": "12:55 PM",
       "prayerType": "First Prayer",
       "date": {
@@ -67,7 +67,7 @@
     },
     {
       "title": "ICCMW Masjid",
-      "Khutba": "01:30 PM",
+      "khatba": "01:30 PM",
       "Salah": "01:55 PM",
       "prayerType": "Second Prayer",
       "date": {
@@ -80,7 +80,7 @@
     },
     {
       "title": "Church Hall",
-      "Khutba": "12:30 PM",
+      "khatba": "12:30 PM",
       "Salah": "12:55 PM",
       "prayerType": "First Prayer",
       "date": {
@@ -93,7 +93,7 @@
     },
     {
       "title": "ICCMW Masjid",
-      "Khutba": "01:30 PM",
+      "khatba": "01:30 PM",
       "Salah": "01:55 PM",
       "prayerType": "Second Prayer",
       "date": {
