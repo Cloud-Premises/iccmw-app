@@ -4,6 +4,7 @@
       "id": 1,
       "title": "Dua Request",
       "description": "",
+      "contact": true,
       "data": [
         {
           "heading": "",
@@ -73,6 +74,7 @@
       "id": 2,
       "title": "Notary",
       "description": "",
+      "contact": true,
       "data": [
         {
           "heading": "",
@@ -96,6 +98,7 @@
       "id": 3,
       "title": "ICCMW WeekDay Maktab Program",
       "description": "",
+      "contact": true,
       "data": [
         {
           "heading": "",
@@ -136,6 +139,7 @@
       "id": 4,
       "title": "Saturday Quran Tafseer in Urdu",
       "description": "Topic: Quran Tafseer in Urdu",
+      "contact": true,
       "data": [
         {
           "heading": "",
