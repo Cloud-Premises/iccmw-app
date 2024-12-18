@@ -2,19 +2,19 @@
   "khateeb": [
     {
       "name": "Dr. Mohammad Ockeh",
-      "image": ""
+      "image": "https://raw.githubusercontent.com/Cloud-Premises/iccmw-app/refs/heads/main/assets/images/khateeb/drMohammadOckeh.jpg"
     },
     {
       "name": "Imam Masroor",
-      "image": ""
+      "image": "https://raw.githubusercontent.com/Cloud-Premises/iccmw-app/refs/heads/main/assets/images/khateeb/imamMasroor.jpg"
     },
     {
       "name": "Sh. Omar Ahmed",
-      "image": ""
+      "image": "https://raw.githubusercontent.com/Cloud-Premises/iccmw-app/refs/heads/main/assets/images/khateeb/shOmarAhmed.jpg"
     },
     {
       "name": "Dr. Imam Shafique",
-      "image": ""
+      "image": "https://raw.githubusercontent.com/Cloud-Premises/iccmw-app/refs/heads/main/assets/images/khateeb/drImamShafique.jpg"
     }
   ]
 }
