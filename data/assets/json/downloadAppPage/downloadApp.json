@@ -1,6 +1,6 @@
 {
   "heading": "Download Mobile App",
-  "description": " Download the ICCMW app to get the latest updates on the prayer time, events, including speaker profiles, session",
+  "description": "Download the ICCMW app to get the latest updates on the prayer time, events, including important notifications.",
   "mockupImage": "https://raw.githubusercontent.com/Cloud-Premises/iccmw-app/refs/heads/main/assets/images/mockup/mockup.png",
   "device": {
     "ios": {
