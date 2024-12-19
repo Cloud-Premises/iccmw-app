@@ -1,0 +1,15 @@
+{
+  "heading": "Download Mobile App",
+  "description": "The ICCMW app provides a comprehensive digital platform for accessing local masjid services, event updates, prayer times, and Islamic resources, making it easier for the community to stay connected and engaged.",
+  "mockupImage": "",
+  "paltform": {
+    "ios": {
+      "url": "https://apps.apple.com/app/iccmw/id6738853369",
+      "image": ""
+    },
+    "android": {
+      "url": "https://play.google.com/apps/internaltest/4700194692658914364",
+      "image": ""
+    }
+  }
+}
