@@ -5,11 +5,11 @@
   "paltform": {
     "ios": {
       "url": "https://apps.apple.com/app/iccmw/id6738853369",
-      "image": ""
+      "image": "https://raw.githubusercontent.com/Cloud-Premises/iccmw-app/refs/heads/main/assets/images/download/appstore.png"
     },
     "android": {
       "url": "https://play.google.com/apps/internaltest/4700194692658914364",
-      "image": ""
+      "image": "https://raw.githubusercontent.com/Cloud-Premises/iccmw-app/refs/heads/main/assets/images/download/playstore.png"
     }
   }
 }
