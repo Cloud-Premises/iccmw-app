@@ -1,6 +1,6 @@
 # Privacy Policy
 
-This Privacy Policy explains how we collect, use, disclose, and protect the personal information of users who visit our website [https://portal.epicmasjid.org] (referred to as “we,” “us,” or “our”). We value your privacy and are committed to safeguarding your personal information. By using our website, you consent to the practices described in this policy.
+This Privacy Policy explains how we collect, use, disclose, and protect the personal information of users who visit our website [https://iccmw.org] (referred to as “we,” “us,” or “our”). We value your privacy and are committed to safeguarding your personal information. By using our website, you consent to the practices described in this policy.
 
 ## 1. Information We Collect:
 ### 1.1. Personal Information:
